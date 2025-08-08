@@ -6,21 +6,21 @@ Felipe Abogado, servicio políticas publicas de ambiente
 
 ## Organización de la clase
 
-- Al final del año habrá una exposición sobre las distintas perspectivas vistas en el curso.
+- Al final del año habrá una exposición sobre las distintas perspectivas vistas en el curso
 
-- Nos enviarán documentos y videos para discutir y analizar esos contenidos en la clase.
+- Nos enviarán documentos y videos para discutir y analizar esos contenidos en la clase
 
-- El objetivo del curso es comprender las cuatro perspectivas principales. En cada clase nos van a mostrar una tabla con estas perspectivas para que podamos familiarizarnos con ellas y memorizarlas.
+- El objetivo del curso es comprender las cuatro perspectivas principales. En cada clase nos van a mostrar una tabla con estas perspectivas para que podamos familiarizarnos con ellas y memorizarlas
 
-- Cada clase se abordará una perspectiva diferente. En la próxima clase expondrá Natalia Ricote.
+- Cada clase se abordará una perspectiva diferente. En la próxima clase expondrá Natalia Ricote
 
-- Reprobaremos el curso si reducimos la crisis socioambiental únicamente a una crisis climática.
+- Reprobaremos el curso si reducimos la crisis socioambiental únicamente a una crisis climática
 
 ## Transición socioecológica justa y sus perspectivas
 
-Marco teórico
+Marco teórico.
 
-¿Hacia dónde vamos a transicionar?
+¿Hacia dónde vamos a transicionar?.
 
 Antes, la problemática medioambiental era una simple especulación; ahora es un hecho.
 
@@ -42,9 +42,9 @@ La transición ecológica es una disputa entre alcances y niveles.
 
 - Narrativas del antropoceno
 
-Crisis global y crisis local
+Crisis global y crisis local.
 
-Triple crisis, se refiere a la crisis ambiental, social y económica que ocurren simultáneamente
+Triple crisis, se refiere a la crisis ambiental, social y económica que ocurren simultáneamente.
 
 Participativa y distributiva, antes esa era la visión analógica. Hoy es todo más complejo, no se trata solo de políticas públicas, sino de algo más amplio en términos sociales.
 
@@ -156,43 +156,52 @@ Se trata de desmantelar sistemas de opresión para proteger a las personas y al 
 
 ### Modelos económicos de transición
 
-Capitalismo neo liberalismo, capitalismo verde, desarrollo sustentable, economía circular, decrecimiento
+Capitalismo neoliberal, capitalismo verde, desarrollo sustentable, economía circular, decrecimiento.
 
-Capitalismo como sistema economico imperante durante los ultimos 250 años.
-Crecimiento (constante) utilizando como sinonimo de desarrollo, cuando paras? Hasta cuando esto da avasto.
-Aumento de pib como motor y maximazacion de las utilidades.
-Economia es un subsistema de un sistema mayor y finito, la biosfera y por lo tamto, el crecimiento permanente es imposible.
-Los 5 principales incresos de chile son de extractivismo, apropiandose de la naturaleza.
-“Creación” de riqueza capitalista es apropiación de la naturaleza.
-Es necesario? Es necesaria la explotacion para la subsistencia de la vida local?
-Cual puede ser un modelo economico que nos permita teansicionar y tener un bienestar socioambiental
+El capitalismo ha sido el sistema económico imperante durante los últimos 250 años.
 
-### Narrativas del antropoceno y el imaginario
+Se asocia crecimiento constante con desarrollo, pero ¿cuándo se para? ¿Hasta cuándo esto da abasto?.
 
-Cambiar las narrativas que sostienen el sistema actual que ha llevado a los sistemas al colapso
-Las metaforas conceptuales no solo son abundantes y cotidianas, sino que estructuran profundamente como pensamos y actuamos
-Reconocer, cuestionar, imaginar y vivir alternativas pluriversos
+El aumento del PIB es el motor y la maximización de las utilidades el objetivo principal.
 
-Sexta extincion de especies vs aniquilacion biológica.
+La economía es un subsistema de un sistema mayor y finito, la biosfera, por lo tanto, el crecimiento permanente es imposible.
+
+Los 5 principales ingresos de Chile provienen del extractivismo, apropiándose de la naturaleza.
+
+La “creación” de riqueza capitalista es en realidad una apropiación de la naturaleza.
+
+¿Es necesaria esta explotación para la subsistencia de la vida local?.
+
+¿Cuál puede ser un modelo económico que nos permita transicionar y alcanzar un bienestar socioambiental?.
+
+### Narrativas del Antropoceno y el Imaginario
+
+Cambiar las narrativas que sostienen el sistema actual, que ha llevado a los sistemas al colapso.
+
+Las metáforas conceptuales no solo son abundantes y cotidianas, sino que estructuran profundamente cómo pensamos y actuamos.
+
+Reconocer, cuestionar, imaginar y vivir alternativas pluriversos.
+
+Sexta extinción de especies vs aniquilación biológica.
+
 Ser humano plaga destructiva vs ser humano como agente de cambio.
-Hay que imaginarnos los futuros utopicos, hay que proponer futuros.
 
+Hay que imaginarnos futuros utópicos, hay que proponer futuros.
 
+Antropoceno (presente) > transición socioecológica > futuro.
 
-Antropoceno (presente) > trancision socioecologica > futuro
+Luego de imaginar nuestras transiciones, vamos a ver sobre políticas públicas.
 
-Luego de imaginar nuestras transisones, vamos a ver sobre politicas publicas
-
-Agricultura regenerativas, tecnologiq y medio ambiente, turismo sostenible, politica 
+Agricultura regenerativa, tecnología y medio ambiente, turismo sostenible, política.
 
 ## Conceptos importantes
 
-Solastalgia: el dolor de el impacto ambiental, como afecta esto emocionalmente
+- Solastalgia: Dolor o angustia emocional causada por el impacto ambiental negativo en el lugar donde se vive.
 
-Antropoceno: buscar
+ - Antropoceno: Era geológica actual caracterizada por el impacto significativo de la actividad humana en la Tierra.
 
-Capitalogeno
+- Capitalógeno: Relacionado con la crisis socioambiental provocada por el sistema capitalista.
 
-Homeostasis
+- Homeostasis: Capacidad de un sistema, como la Tierra, para autorregularse y mantener condiciones estables.
 
-Pluriversos
+- Pluriversos: Diversidad de formas de vida, saberes y realidades coexistentes, que permiten imaginar múltiples alternativas para el futuro.
