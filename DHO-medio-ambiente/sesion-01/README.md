@@ -44,7 +44,7 @@ La transición ecológica es una disputa entre alcances y niveles.
 
 Crisis global y crisis local
 
-Triple crisis.
+Triple crisis, se refiere a la crisis ambiental, social y económica que ocurren simultáneamente
 
 Participativa y distributiva, antes esa era la visión analógica. Hoy es todo más complejo, no se trata solo de políticas públicas, sino de algo más amplio en términos sociales.
 
