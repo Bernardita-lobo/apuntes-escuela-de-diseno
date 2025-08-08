@@ -32,7 +32,11 @@ video de referecia
 
 La primera computadora, el ENIAC, fue creada en 1946, y el primer lenguaje de programación, Fortran, apareció en 1955. Eso significa que la carrera de programación tiene menos de un siglo de vida, y aun así ha transformado profundamente el mundo. Lo sorprendente es que el concepto de una máquina universal fue imaginado por una persona 102 años antes de que existiera el primer lenguaje de programación.
 
+ada era bastante apacionada por las artes y las ciencias, tenia como profesora a una de las mejores cientificas y matematicas de su tiempo mery somerville, ella la prenseto ante la sociedad cientifica, fue en un encuentro donde ada conocioa a charles babbage, uno de los encuentros mas importantes de la tecnologia. 
 
+babbage estaba trabajando en una maquina maquina diferencial, una maquina que podia resolver ecuenciones, se habia inpirado en las calculadoras de pascal y de line para la maquina diferencial, el diseño de esta maquina fue financiada por el gobierno, aunque no le alcanzo para financiala.
+
+ada le parecio brilllante su proyecto y le pregunto si podia aceptarla como su alumna, pero babbage no creyo en sus capacidades y se nego, aunque siguieron en contacto.
 
 con el tiempo babbage se aburrio de su maquina diferencial ya que estaba hecha para realidar solo un tipo especifico de funciones y sintio que debia diseñar una maquina programable a la que se le pudiera dar instrucciones para resolver cualquier tipo de problema matematico.
 
