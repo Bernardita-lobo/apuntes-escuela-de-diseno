@@ -1,8 +1,8 @@
 # Políticas, marco normativo y estrategias socioambientales
 
-Rodrigo abogado, clínica jurídica de derechos ambientales.
+Rodrigo Rivera, abogado, Clínica Jurídica de Derechos Ambientales
 
-Felipe Abogado, servicio políticas publicas de ambiente
+Sebastián Arriagada, abogado, Servicio de Políticas Públicas de Ambiente
 
 ## Organización de la clase
 
