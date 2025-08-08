@@ -1,29 +1,30 @@
-# sesion-01
+# Sesion-01
 
-## trabajo en clase / martes 05 de agosto, 2025
+## Trabajo en clase / Martes 05 de agosto, 2025
 
-### intruduccion de contenidos
+### introducción de contenidos
 
-## encargos
+## Encargos
 
-### alan turing
+###  Alan Turing
 
-1936 10 años antes de que se creara la primera computadora alan turing la creo en su mente, alan estudio en en king college un colegio de cambrige, una de las universidades mas prestigiosas.
+En 1936, diez años antes de que se construyera la primera computadora, Alan Turing la creó en su mente. El estudió en el King's College, un colegio de Cambridge, una de las universidades más prestigiosas.
 
-en ese tiempo david hilbert estaba estudiando las matematicas y buscando una manera de convertirlas todas en simbolos, la que no existia en la matematica nada supuesto y nada indemostrable.aquie el se plante la siguiente pregunta existe un conjunto de pasos para determinar si un enunciado es verdadero o falso? es problema de la decicion, no existe enunciados imposibles de demostrar, luego kurt gobel preseento su teorema de la imcompletud, dice que las matematicas son un sistema incompleto, y que para resolver sus problemas tenemos que tenemos que aceptar cosas no demostrables. esto revoluciono las maticas y su sistema matematico.
+En ese tiempo, David Hilbert estaba estudiando las matemáticas y buscando una manera de convertirlas todas en símbolos, de modo que no existiera en ellas ningún supuesto ni enunciado indemostrable. Se planteó la siguiente pregunta: ¿existe un conjunto de pasos para determinar si un enunciado es verdadero o falso? Esto es conocido como el problema de la decisión. La idea era que no existieran enunciados imposibles de demostrar.
 
-en 1936 turin escribio un ensayo llamado on computable munbers (acerca de numeros computables) en donde dos tipos de numeros, los computables, osea los que se pueden resolver con una serie de pasos o algoritmos y los no computables, a los que no existe algoritmo. y para responder a esta pregunta turing invento una computadora.
+Luego Kurt Gödel presentó su teorema de la incompletud, que dice que las matemáticas son un sistema incompleto y que para resolver sus problemas tenemos que aceptar cosas no demostrables. Esto revolucionó las matemáticas y su sistema matemático.
 
-ya que en ese tiempo las computadoras eran realmente personas calculando, lo cual penso que una maquina podia hacer lo mismo, resolver cualquier problema logico un sus debidas instrucciones. 
+En 1936, Turing escribió un ensayo llamado On Computable Numbers (Acerca de números computables), donde definió dos tipos de números, los computables, es decir aquellos que se pueden resolver con una serie de pasos o algoritmos, y los no computables, para los cuales no existe algoritmo. Para responder a esta pregunta, Turing inventó una computadora.
 
-el hizo un modelo logico, no construyo ninguna computadora. consistia en una cinta de papel infinita en donde se dividia en espacios donde podian estar en blanco o tener 0 o 1, con un cabezal que podia leer el cuadro, es escrbir y borrar las segciones, este cabezal tambien podia moverse, dentro del cabezal hay una memoria interna con los estados, cada vez que el cabezal se movia tenia la opcion de escribir borrar o dejar igual.
+Ya que en ese tiempo las computadoras eran realmente personas haciendo cálculos, Turing pensó que una máquina podía hacer lo mismo: resolver cualquier problema lógico con sus debidas instrucciones.
 
-¿como sabe si debe escribir, borrar o dejar igual? esto podia funcionar graciass a algo que turing llamo tabla de instrucciones. que ahora llamamos tabla de instrucciones o algoritmo
-con este modelo que era una abstraccion de una computadora turing demostro que con las debidas instrucciones una maquina podria resolver cualquier problema.
+Él hizo un modelo lógico, no construyó ninguna computadora. Consistía en una cinta de papel infinita dividida en espacios que podían estar en blanco o contener un 0 o un 1, con un cabezal que podía leer cada cuadro, escribir o borrar las secciones. Este cabezal también podía moverse, y dentro de él había una memoria interna con los estados. Cada vez que el cabezal se movía, tenía la opción de escribir, borrar o dejar igual.
 
-en diciembre de 1951 turing se enfrento en una pena de carcel por mantener una realacion sentimental con un hobre, fue sometido a un terrible proceso de costracion quimica, el cual consumio su vida de la cual el decidio acabar en 1954. se dice que fue por una profunda depresion por lo horrible de este proceso, en gordon brow, en 2009 primer ministro dio una disculpa publica a turin sin en embargo en 2012 se negaron el indulto xd, y luego en el 2013 la reina isabel volvio a realizar una disculpa.
+¿Cómo sabe si debe escribir, borrar o dejar igual? Esto podía funcionar gracias a algo que Turing llamó tabla de instrucciones, que ahora llamamos algoritmo o tabla de instrucciones. Con este modelo, que era una abstracción de una computadora, Turing demostró que con las debidas instrucciones una máquina podría resolver cualquier problema.
 
-alan turig fue un genio increiblemente creativo, ayudo profundamente al desarrollo de la tecnologia, es una pena que todos los prejuicios acabaron con su vida.
+En diciembre de 1951, Turing se enfrentó a una pena de cárcel por mantener una relación sentimental con un hombre. Fue sometido a un terrible proceso de castración química, que consumió su vida, y él decidió acabar con ella en 1954. Se dice que fue por una profunda depresión debido a lo horrible de este proceso. En 2009, Gordon Brown, entonces primer ministro, dio una disculpa pública a Turing, aunque en 2012 se negó el indulto. Finalmente, en 2013, la reina Isabel volvió a ofrecer una disculpa.
+
+Alan Turing fue un genio increíblemente creativo, que ayudó profundamente al desarrollo de la tecnología. Es una pena que todos los prejuicios hayan acabado con su vida.
 
 video de referecia
 
