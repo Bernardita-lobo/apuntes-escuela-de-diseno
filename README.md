@@ -1,1 +1,1 @@
-# apuntes-escuela-de-diseno
+# apuntes-escuela-de-diseño
