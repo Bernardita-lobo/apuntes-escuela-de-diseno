@@ -36,7 +36,7 @@ La transición ecológica es una disputa entre alcances y niveles.
 
 - Naturaleza sujeto de derecho
 
-- Interseccionalidad y justicia ambiental: como las discriminaciones se juntan, ósea el barrio esta mas afectado, mi mismo que le hacemos a las personas le hacemos a la naturaleza.
+- Interseccionalidad y justicia ambiental
 
 - Modelos económicos de transición
 
@@ -60,79 +60,99 @@ Energía verde e hidrógeno verde, ¿realmente eso genera una transición socioe
 
 Se mueve toda una economía en torno a una solución “menos contaminante”, ¿quién se lleva esa carga?.
 
-## ¿Porque tenemos que transicionar?
+## ¿Por qué tenemos que transicionar?
 
-Agente cambio a escala geológica
+Somos agentes de cambio a escala geológica.
 
-Logica
+Lógica del mundo infinito.
 
-Mundo infinito
+Modelo económico capitalista y sociedad de consumo, donde el aumento del PIB es el motor, genera un entramado de relaciones sociales.
 
-Modelo economico capitalista sociedad de consumo y aumento de pib como motor. Genera un entramado de relaciones sociales
+Capitaliceno (Donna Haraway).
 
-Capitaliceno (Donna Haraway)
+Relación utilitaria con la naturaleza, vista como “recursos”.
 
-Relacion utilitaria de la naturaleza “recursos”
+Paradigma de disociación con la naturaleza: la naturaleza está en todas partes, en la ciudad, no solo en bosques y plantas.
 
-Paradigma de disociación con la naturaleza, la naturaleza esta en todas partes, en la ciudad, no solo en los bosques y las plantas, la naturaleza esta en todas partes
+Crisis civilizatoria relacionada con las formas de producción y consumo.
 
-Crisis civilizatoria: formas de producción y consumo
+La interacción con la naturaleza parte del interés y de conocer el entorno.
 
-La interacción con la naturaleza parte por el interés y por conocer el alrededor
+¿Cómo vas a darle derechos a la naturaleza si no razona? (lol).
 
-Como vas a darle derechos a la naturaleza si no razona lol
+### Manifestación del Antropoceno
 
-### Manifestacion del antropoceno
-La crisis global va las allá de la crisis climática
-En nuestros cuerpos habita esta crisis global
-Interacción entre los diversos forzantes anteopogenicos
+La crisis global va más allá de la crisis climática.
 
-Escasez alimentaria
-Perdida de biodiversidad
-Contaminacion aire, suelo, tierra, agua
-Climatica
-Transformacion del suelo
-Afectacion paisaje
-Invasion de especies exoticas
+En nuestros cuerpos habita esta crisis global.
 
-Los ecosistemas sin sumamente fragiles
+Interacción entre los diversos forzantes antropogénicos.
+
+Escasez alimentaria.
+
+Pérdida de biodiversidad.
+
+Contaminación de aire, suelo, tierra y agua.
+
+Crisis climática.
+
+Transformación del suelo.
+
+Afectación del paisaje.
+
+Invasión de especies exóticas.
+
+Los ecosistemas son sumamente frágiles.
 
 ### Naturaleza como sujeto de derecho
 
-Teoria de gaia y nuevas tendencias
+Teoría de Gaia y nuevas tendencias.
 
-Que es la vida, como opera, puede la naturaleza tener reconocimiento normativo?
+¿Qué es la vida, cómo opera? ¿Puede la naturaleza tener reconocimiento normativo?.
 
-Antipogesis
+Antítesis (Antipogesis).
 
-Interdependiente de todos los ecosistemas y organismos es la que permite la subsistencia en la vida, sistema auto organizado
+La vida es interdependiente de todos los ecosistemas y organismos, y esa interdependencia permite la subsistencia. Es un sistema autoorganizado.
 
-Como la vida requiere de la vida
+La vida requiere de la vida.
 
-Compleja redes de procesos fisioquimicos que dependen de lo viviente para su funcionamiento
-Homeostasis planetaria
-Este fenómeno se le llama regulación biotica del ambiente
-James movelock y lynn margulis
-Gaia diosa griega de la naturaleza/pachamama
+Complejas redes de procesos fisioquímicos que dependen de lo viviente para funcionar.
 
-¿Como reconocemos la naturaleza en el sistema legal?
+Homeostasis planetaria: este fenómeno se llama regulación biótica del ambiente.
 
-Manteniendo y respetando los ciclos vitales, reproduccion, regeneracion.
-Objeto y sugero de derecho, es un objeto para mi beneficio.
-Limites planetarios, de la tierra y sus usos, permitir la regeneración.
-Intergeneracional y otras formas de vida, justicia ambiental, respeto por las generaciones que van a habitar en unos años.
-Perspectiva ecocéntrica, entender el valor de la naturaleza y darle el peso, esto no solo es jurídico, tiene un valor intrincico.
+Propuesta por James Lovelock y Lynn Margulis.
+
+Gaia: diosa griega de la naturaleza / Pachamama.
+
+¿Cómo reconocemos la naturaleza en el sistema legal?.
+
+Manteniendo y respetando los ciclos vitales, la reproducción y la regeneración.
+
+La naturaleza suele ser objeto y sujeto de derecho, pero muchas veces solo como objeto para nuestro beneficio.
+
+Límites planetarios de la Tierra y sus usos, para permitir la regeneración.
+
+Justicia intergeneracional y respeto por las generaciones futuras y otras formas de vida.
+
+Perspectiva ecocéntrica, entender el valor intrínseco de la naturaleza y otorgarle el peso correspondiente, no solo desde lo jurídico.
+
 Tutela del derecho a la naturaleza y resolución de conflictos con otros derechos.
-Dotar de contenido, reinterpretacion del derecho flexibilidad evolucion y progresivadad de las nirmas, adecuada a la eealidad.
+
+Dotar de contenido, reinterpretación del derecho, flexibilidad, evolución y progresividad de las normas, adecuadas a la realidad.
 
 ### Interseccionalidad y justicia ambiental
 
-Nace de la idea que el ambientalismo es un problema etico y politico donde los mismos 
+La interseccionalidad muestra cómo distintas formas de discriminación se combinan; por ejemplo, un barrio más afectado ambientalmente suele ser también socialmente vulnerable.
 
-“La interseccionalidad puede ser un prisma que ilumine dinamicas de discriminacion aun no visibilizadas, amolificando voces historicamente excluidad para producir una justicia ambiental que sea restauradora”
-Leah thomas, co-fundadora de intersectional environmentalist: como desmantelar sistemas de opresión para proteger las personas + el planeta.
+Lo que le hacemos a las personas, lo hacemos también a la naturaleza, están conectados.
 
-¿Que voces son las excluidas? ¿Que voces hay que levantar?
+Esta idea nace del reconocimiento de que el ambientalismo es un problema ético y político, donde las mismas estructuras de opresión afectan tanto a comunidades humanas como al ambiente.
+
+“La interseccionalidad puede ser un prisma que ilumine dinámicas de discriminación aún no visibilizadas, amplificando voces históricamente excluidas para producir una justicia ambiental que sea restauradora” Leah Thomas, cofundadora de Intersectional Environmentalist.
+
+Se trata de desmantelar sistemas de opresión para proteger a las personas y al planeta.
+
+¿Qué voces son las excluidas? ¿Qué voces hay que levantar?.
 
 ### Modelos económicos de transición
 
