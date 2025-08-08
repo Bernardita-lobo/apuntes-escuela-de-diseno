@@ -1,67 +1,66 @@
-# Politicas, marco normativo y estrategias socioambientales
+# Políticas, marco normativo y estrategias socioambientales
 
 Rodrigo abogado, clínica jurídica de derechos ambientales.
 
 Felipe Abogado, servicio políticas publicas de ambiente
 
-## organizacion de la clase
+## Organización de la clase
 
+- Al final del año habrá una exposición sobre las distintas perspectivas vistas en el curso.
 
-- Exposición a fin de año de las perspectivas
+- Nos enviarán documentos y videos para discutir y analizar esos contenidos en la clase.
 
-- Nos van a enviar documentos y videos para discutir esos contenidos,
+- El objetivo del curso es comprender las cuatro perspectivas principales. En cada clase nos van a mostrar una tabla con estas perspectivas para que podamos familiarizarnos con ellas y memorizarlas.
 
-- La idea del curso es entender las cuatro perspectivas, todas las clases van a mostrar la tabla cada clase para qje las aprendamos
+- Cada clase se abordará una perspectiva diferente. En la próxima clase expondrá Natalia Ricote.
 
-- Cada clase va a ser una perspectiva, Proxima clase Natalia ricote
+- Reprobaremos el curso si reducimos la crisis socioambiental únicamente a una crisis climática.
 
-- Reprobamos el curso si le decimos solo que la crisis medioambiental es solo una crisis climatica 
-
-## Transición socio ecológica justa y sus perspectivas
+## Transición socioecológica justa y sus perspectivas
 
 Marco teórico
-Donde vamos a transicionar
 
-Antes la problemática medio ambiental era una simple especulación, ahora es un hecho.
+¿Hacia dónde vamos a transicionar?
 
-Paradigmas, desarrollarse con y ante la naturaleza
+Antes, la problemática medioambiental era una simple especulación; ahora es un hecho.
 
-Como nos vamos adaptando, transicionar es difícil, requiere una estrategia y comunicación ambiental, como especulamos del futuro 
+Paradigmas, desarrollarse con y ante la naturaleza.
 
-Se asocia el daño ambiental con la afectación a los derechos de los trabajadores
-Ejemplo los mineros, tanto como sus condiciones laborales como el daño ambiental están vinculados
+La adaptación es un proceso, transicionar es difícil, requiere una estrategia y comunicación ambiental. También implica cómo especulamos sobre el futuro.
 
-La transición ecológica es una disputa entre alcances y niveles
+Se asocia el daño ambiental con la afectación a los derechos de los trabajadores. Por ejemplo, los mineros, Tanto sus condiciones laborales como el daño ambiental están vinculados.
+
+La transición ecológica es una disputa entre alcances y niveles.
 
 ## Perspectivas
 
-### Naturaleza sujeto de derecho
+- Naturaleza sujeto de derecho
 
-Interseccionalidad y justicia ambiental: como las discriminaciones se juntan, ósea el barrio esta mas afectado, mi mismo que le hacemos a las personas le hacemos a la naturaleza.
+- Interseccionalidad y justicia ambiental: como las discriminaciones se juntan, ósea el barrio esta mas afectado, mi mismo que le hacemos a las personas le hacemos a la naturaleza.
 
-Modelos económicos de transición
+- Modelos económicos de transición
 
-Narrativas del antropoceno
+- Narrativas del antropoceno
 
 Crisis global y crisis local
 
-Triple crisis *
+Triple crisis.
 
-Participativa y distributiva, antes era así la vision analógica, hoy es todo mas complejo, no solo es referido a las políticas publicas, es mas amplio en términos sociales, no se pueden hacer políticas publicas trasversales si las problemáticas son desiguales.
+Participativa y distributiva, antes esa era la visión analógica. Hoy es todo más complejo, no se trata solo de políticas públicas, sino de algo más amplio en términos sociales.
+
+No se pueden hacer políticas públicas transversales si las problemáticas son desiguales.
 
 Sin justicia ambiental, no hay justicia social.
 
-Como nombramos y nos referimos a las cosas tiene un impacto (por ejemplo llamar a la naturaleza recurso)
+La forma en que nombramos y nos referimos a las cosas tiene un impacto, por ejemplo, llamar a la naturaleza “recurso”.
 
-Recursos renovables y no renovables
-Realmente el agua es un recurso renovable?
+Recursos renovables y no renovables, ¿realmente el agua es un recurso renovable?.
 
-Energía verde y hidrogeno verde
-Realmente eso genera una transición socio ecológica o solo es una practica no contaminante.
+Energía verde e hidrógeno verde, ¿realmente eso genera una transición socioecológica o solo es una práctica no contaminante?.
 
-Se mueve toda una economía en torno a una solución “menos contaminante”, quien se lleva esa carga? 
+Se mueve toda una economía en torno a una solución “menos contaminante”, ¿quién se lleva esa carga?.
 
-¿Porque tenemos que transicionar?
+## ¿Porque tenemos que transicionar?
 
 Agente cambio a escala geológica
 
@@ -83,7 +82,7 @@ La interacción con la naturaleza parte por el interés y por conocer el alreded
 
 Como vas a darle derechos a la naturaleza si no razona lol
 
-Manifestacion del antropoceno
+### Manifestacion del antropoceno
 La crisis global va las allá de la crisis climática
 En nuestros cuerpos habita esta crisis global
 Interacción entre los diversos forzantes anteopogenicos
@@ -98,7 +97,7 @@ Invasion de especies exoticas
 
 Los ecosistemas sin sumamente fragiles
 
-Naturaleza como sujeto de derecho
+### Naturaleza como sujeto de derecho
 
 Teoria de gaia y nuevas tendencias
 
@@ -126,7 +125,7 @@ Perspectiva ecocéntrica, entender el valor de la naturaleza y darle el peso, es
 Tutela del derecho a la naturaleza y resolución de conflictos con otros derechos.
 Dotar de contenido, reinterpretacion del derecho flexibilidad evolucion y progresivadad de las nirmas, adecuada a la eealidad.
 
-Interseccionalidad y justicia ambiental
+### Interseccionalidad y justicia ambiental
 
 Nace de la idea que el ambientalismo es un problema etico y politico donde los mismos 
 
@@ -135,7 +134,7 @@ Leah thomas, co-fundadora de intersectional environmentalist: como desmantelar s
 
 ¿Que voces son las excluidas? ¿Que voces hay que levantar?
 
-Modelos económicos de transición
+### Modelos económicos de transición
 
 Capitalismo neo liberalismo, capitalismo verde, desarrollo sustentable, economía circular, decrecimiento
 
@@ -148,7 +147,7 @@ Los 5 principales incresos de chile son de extractivismo, apropiandose de la nat
 Es necesario? Es necesaria la explotacion para la subsistencia de la vida local?
 Cual puede ser un modelo economico que nos permita teansicionar y tener un bienestar socioambiental
 
-Narrativas del antropoceno y el imaginario
+### Narrativas del antropoceno y el imaginario
 
 Cambiar las narrativas que sostienen el sistema actual que ha llevado a los sistemas al colapso
 Las metaforas conceptuales no solo son abundantes y cotidianas, sino que estructuran profundamente como pensamos y actuamos
