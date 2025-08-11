@@ -12,6 +12,8 @@
 
 - Traer 3 objetos (cosas de cualquier tipo ) asociados a los listados de cada uno de los conceptos. (6 objetos en total) Los objetos se usaran para un ejercicio colectivo.
 
+- Nos preguntaremos por estos conceptos y por las condiciones estructurales que posibilitan los espacios de participación, cuidado mutuo y bienestar, tanto de la sociedad en general como en la convivencia en nuestra Universidad. 
+
 #### asigancion de espacios
 
 Para cada área decidí ubicarla en un espacio específico que yo habito.
@@ -76,4 +78,4 @@ si tuviera que atribuirle tres objetos serian:
 
 - Límites
 
-si tuviera que atribuirle tres objetos serian:
+si tuviera que atribuirle tres objetos serian: 
