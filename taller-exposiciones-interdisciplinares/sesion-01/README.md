@@ -6,7 +6,7 @@
 
 ### La comunidad – Lo colectivo – La convivencia
 
-#### desarrollo de el encargo
+#### Desarrollo de el encargo
 
 - Elaborar un listado de por lo menos diez términos o frases cortas asociadas a cada uno de los conceptos, pueden ser sinónimos, situaciones, expresiones entre otras posibilidades.
 
@@ -14,7 +14,7 @@
 
 - Nos preguntaremos por estos conceptos y por las condiciones estructurales que posibilitan los espacios de participación, cuidado mutuo y bienestar, tanto de la sociedad en general como en la convivencia en nuestra Universidad. 
 
-#### asigancion de espacios
+#### Asigancion de espacios
 
 Para cada área decidí ubicarla en un espacio específico que yo habito.
 
@@ -24,7 +24,7 @@ Para el concepto de colectivo, lo ubiqué en el transporte público y en las zon
 
 Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he residido, ya que ahí se ponen en práctica el respeto, los acuerdos y la vida compartida en lo rutinario.
 
-#### La comunidad / Scout
+### La comunidad / Scout
 
 - Sentido de pertenencia
 
@@ -38,11 +38,19 @@ Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he 
 
 - valores morales y leyes
 
-si tuviera que atribuirle tres objetos serian: pañolin, 
+#### Si tuviera que atribuirle dos objetos serian:
 
-#### Lo colectivo / Transporte público
+Pañolín: representa la identidad, el compromiso y el sentido de pertenencia dentro de la comunidad scout. Es un símbolo visible de unión, orgullo y trayectoria compartida.
+
+Logos: comunican los valores, la misión y la historia de la comunidad. Funcionan como lenguaje visual común que fortalece la identidad grupal.
+
+Merchandising: son elementos que fortalecen la cultura compartida y permiten expresar orgullo y adhesión al grupo.
+
+### Lo colectivo / Transporte público
 
 - Bien común
+
+- contratos sociales.
 
 - Cultura intrínseca
 
@@ -60,9 +68,13 @@ si tuviera que atribuirle tres objetos serian: pañolin,
 
 - Esforzarte por funcionar y desaparecer
 
-si tuviera que atribuirle tres objetos serian:
+#### Si tuviera que atribuirle dos objetos serian: 
 
-#### La convivencia / Espacios donde he residido
+- Audífonos: símbolo de la desconexión individual dentro del espacio común; una manera de respetar el silencio y el espacio del otro, y de seguir los contratos sociales implícitos.
+
+- Mascarillas: además de ser un elemento utilizado a nivel mundial durante la pandemia, una experiencia colectiva que todos tuvimos que atravesar y resistir a nuestra manera; también pueden entenderse como un gesto hacia el otro, una forma de cuidado, una precaución para no enfermar ni incomodar a los demás.
+
+### La convivencia / Espacios donde he residido
 
 - Escucha activa
 
@@ -78,4 +90,6 @@ si tuviera que atribuirle tres objetos serian:
 
 - Límites
 
-si tuviera que atribuirle tres objetos serian: 
+#### Si tuviera que atribuirle dos objetos serian: 
+
+Puerta: representa la entrada al espacio común, la confianza y también la necesidad de respetar los tiempos e intimidad del otro. Por ejemplo, en la universidad, cuando llegamos tarde, entendemos de forma implícita que si una puerta está cerrada, hay que entrar con cautela; preguntando, en silencio o, a veces, simplemente no entrando. Es un límite físico que también comunica normas de convivencia no dichas.
