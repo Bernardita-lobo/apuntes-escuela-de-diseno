@@ -93,3 +93,5 @@ Merchandising: son elementos que fortalecen la cultura compartida y permiten exp
 #### Si tuviera que atribuirle dos objetos serian: 
 
 Puerta: representa la entrada al espacio común, la confianza y también la necesidad de respetar los tiempos e intimidad del otro. Por ejemplo, en la universidad, cuando llegamos tarde, entendemos de forma implícita que si una puerta está cerrada, hay que entrar con cautela; preguntando, en silencio o, a veces, simplemente no entrando. Es un límite físico que también comunica normas de convivencia no dichas.
+
+Cepillo de dientes: símbolo de lo personal en un espacio compartido. Aunque todos los cepillos están en el mismo lugar; por ejemplo, en un vaso común en el baño, cada persona usa únicamente el suyo. Este objeto cotidiano refleja la necesidad de acuerdos sobre higiene y el respeto por los límites de lo íntimo dentro de la convivencia.
