@@ -34,6 +34,8 @@ Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he 
 
 - Existe un interés genuino por ser parte
 
+- valores morales y leyes
+
 si tuviera que atribuirle tres objetos serian: pañolin, 
 
 #### Lo colectivo / Transporte público
