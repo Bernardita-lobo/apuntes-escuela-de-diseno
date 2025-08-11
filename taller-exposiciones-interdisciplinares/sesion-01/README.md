@@ -36,7 +36,9 @@ Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he 
 
 - Existe un interés genuino por ser parte
 
-- valores morales y leyes
+- Compartes valores morales
+
+- Eres partícipe; te da un valor ser parte
 
 #### Si tuviera que atribuirle dos objetos serian:
 
