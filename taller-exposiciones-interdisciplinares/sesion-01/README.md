@@ -4,11 +4,15 @@
 
 ## Encargo
 
-LA COMUNIDAD - LO COLECTIVO - LA CONVIVENCIA
+### La comunidad – Lo colectivo – La convivencia
+
+#### desarrollo de el encargo
 
 - Elaborar un listado de por lo menos diez términos o frases cortas asociadas a cada uno de los conceptos, pueden ser sinónimos, situaciones, expresiones entre otras posibilidades.
 
 - Traer 3 objetos (cosas de cualquier tipo ) asociados a los listados de cada uno de los conceptos. (6 objetos en total) Los objetos se usaran para un ejercicio colectivo.
+
+#### asigancion de espacios
 
 Para cada área decidí ubicarla en un espacio específico que yo habito.
 
@@ -18,7 +22,7 @@ Para el concepto de colectivo, lo ubiqué en el transporte público y en las zon
 
 Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he residido, ya que ahí se ponen en práctica el respeto, los acuerdos y la vida compartida en lo rutinario.
 
-### La comunidad / Scout
+#### La comunidad / Scout
 
 - Sentido de pertenencia
 
@@ -32,7 +36,7 @@ Para el concepto de convivencia, decidí elegir mi casa y los espacios donde he 
 
 si tuviera que atribuirle tres objetos serian: pañolin, 
 
-### Lo colectivo / Transporte público
+#### Lo colectivo / Transporte público
 
 - Bien común
 
@@ -54,7 +58,7 @@ si tuviera que atribuirle tres objetos serian: pañolin,
 
 si tuviera que atribuirle tres objetos serian:
 
-### La convivencia / Espacios donde he residido
+#### La convivencia / Espacios donde he residido
 
 - Escucha activa
 
