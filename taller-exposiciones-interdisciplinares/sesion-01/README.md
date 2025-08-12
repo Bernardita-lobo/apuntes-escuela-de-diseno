@@ -1,6 +1,4 @@
-# Sesión 01
-
-## Trabajo en clase - Martes 05 de agosto, 2025
+# Trabajo en clase - Martes 05 de agosto, 2025
 
 ## Encargo
 
