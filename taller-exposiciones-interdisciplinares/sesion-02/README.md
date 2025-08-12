@@ -41,3 +41,21 @@ niilismo positivo
 si me dicen mas cosas negativas me voy a volver anarquista.
 
 matias saebra, clejes, cuerpo lenguaje emocion eros y siliencio; muy interesante.
+
+comunidad, hasta donde llega la comunidad, sistemas dentro de sistemas.
+
+pareciera que la comunidad se asocia a un lugar, de repente no, pero lo colectivo parece que no, lo colectivo habla de la cantidad
+
+lo contrario a colectivo es lo individual
+
+### Gabinete de curiosidades
+
+Gabinete de curiosidades o cuarto de maravillas, inventar un mundo, rpoviene de un naturalista al cuestionarse de donde venimos, a donde vamos, la memoria, el coleccionismo, una representacion del mundo
+
+karsten bott, archivo de historia contemporaea, porque esperar a que las cosas se desentierren para estudiarlas, esos ordenamientos generan una narrativa. como la cantidad de las cosas van generando una historia
+
+la puesta en escena
+
+la puesta en valor: que sentido le doy
+
+puesta en avismo: tiene que ver con la accion, como accionamos frente a las cosas.
