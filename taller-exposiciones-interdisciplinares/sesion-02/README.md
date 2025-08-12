@@ -41,6 +41,3 @@ niilismo positivo
 si me dicen mas cosas negativas me voy a volver anarquista.
 
 matias saebra, clejes, cuerpo lenguaje emocion eros y siliencio; muy interesante.
-
-
-
