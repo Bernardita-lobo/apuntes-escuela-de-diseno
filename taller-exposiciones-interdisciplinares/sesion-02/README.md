@@ -1,4 +1,4 @@
-# Trabajo en clase / Martes
+# Trabajo en clase / Martes 12 de agosto, 2025
 
 interrelacion con el grupo
 
