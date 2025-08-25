@@ -1,61 +1,59 @@
 # Trabajo en clase / Martes 12 de agosto, 2025
 
-interrelacion con el grupo
+Interrelación con el grupo
 
-tenemos un sentido de historia, nuestras inquietudes son escuchas, 
+Tenemos un sentido de historia, nuestras inquietudes son escuchadas.
 
-una institucionalidad hay que encontrar un lugar que nos haga sentido, que no solo se conmparta un espacio fisico
+Una institucionalidad: hay que encontrar un lugar que nos haga sentido, que no solo se comparta un espacio físico.
 
-un territorio no define una comunidad
+Un territorio no define una comunidad.
 
-## circuclo de historias
+## Círculo de historias
 
-donde nos reunimos a contar historias, como mi historia se conecta o tiene algun tipo de relacionncon la de al lado.
+Donde nos reunimos a contar historias, cómo mi historia se conecta o tiene algún tipo de relación con la de al lado.
 
-que utilidad puede htener hablar  de nuestras historias
+¿Qué utilidad puede tener hablar de nuestras historias?
 
-crear conecciones, para tener diferentes perspectibas.
+Crear conexiones, para tener diferentes perspectivas.
 
-el poder de construir historias, esa historia del poblador pobladora no necesariamente esta incorporada, construir las narrativas, deconstruir las narrativas predominantes.
+El poder de construir historias: esa historia del poblador o pobladora no necesariamente está incorporada. Construir las narrativas, deconstruir las narrativas predominantes.
 
-cuales son las narrativas que tenemos de comunidad universitaria.
+¿Cuáles son las narrativas que tenemos de comunidad universitaria?
 
-### ¿situacion o episodio donde te diste cuenta que eras parte o no de la comunidad universitaria?
+### ¿Situación o episodio donde te diste cuenta de que eras parte o no de la comunidad universitaria?
 
-cunado comence a vivir experiencias parecidas en conjunto a mis compañeres, cosas en comun, esto nos gusta, esto somos y con esto nos identificamos, cunado me doy cuenta que existe un amor mutuo por la diciplina.
+Cuando comencé a vivir experiencias parecidas en conjunto a mis compañeres, cosas en común, esto nos gusta, esto somos y con esto nos identificamos. Cuando me doy cuenta de que existe un amor mutuo por la disciplina.
 
-note en mayor parte esto con la carga academica, a final de semestre, con entregas y examenes, nos apañamos frente al agotamiento y nos entendemos, no importa como te evaluaroon sino como te sientes, ese sentimiento de entregar lo maximo. afrontar desafios en conjunto.
+Noté en mayor parte esto con la carga académica, a final de semestre, con entregas y exámenes. Nos apañamos frente al agotamiento y nos entendemos: no importa cómo te evaluaron, sino cómo te sientes, ese sentimiento de entregar lo máximo. Afrontar desafíos en conjunto.
 
-algunos compañeros contaron que no se sentian parte por que se sientieron abandonados, por accidentes y comites que los despecharon, porque se contradecian, mi profe dice que auque ellos no estaban de acuerdo con las sanciones no ppodian decir que no, o cambiar las reclas porque eso generaria un libre albedrio. y una debilitacion de la comunidad 
+Algunos compañeros contaron que no se sentían parte porque se sintieron abandonados, por accidentes y comités que los despacharon, porque se contradecían. Mi profe dice que, aunque ellos no estaban de acuerdo con las sanciones, no podían decir que no o cambiar las reglas, porque eso generaría un libre albedrío y una debilitación de la comunidad.
 
-yo creo que para sentirte parte de una comunidad como minimo tienes que confiar en la comunidad, tienes que creer en la existencias de sus valores, creer sus discursos, tener fe
+Yo creo que, para sentirte parte de una comunidad, como mínimo tienes que confiar en ella. Tienes que creer en la existencia de sus valores, creer en sus discursos, tener fe.
 
-diferencia entre comunidad y constitucion.
+Diferencia entre comunidad y constitución: somos una comunidad dentro de un sistema educativo, una institución.
 
-somos una comunidad dentro de un sistema educativo, institucion.
+Un compañero comenta: pérdida de la ética, añoranza suspendida. No se sentía parte porque tampoco quería, aunque anteriormente mencionó que añoraba sentirse parte de algo. La comunidad le dio la espalda al no darle valor a lo más difícil, como la muerte. ¿Qué es la muerte frente a un día de clases? 
 
-un compañero comenta, perdida de la etica, añoranza suspendida. no se sentia parte porque tampoco queria, aunque nterior mente menciono que añoraba sentirse parte de algo, la comunidad le dio la espalda al no darle valor a lo mas dificil como la muerte, la muerte de un compañero, que que es la muerte frente a un dia de clase? xd ya me dio rabia la universidad.
+Ya me dio rabia la universidad.
 
-niilismo positivo
+Nihilismo positivo
 
-si me dicen mas cosas negativas me voy a volver anarquista.
+Si me dicen más cosas negativas, me voy a volver anarquista.
 
-matias saebra, clejes, cuerpo lenguaje emocion eros y siliencio; muy interesante.
+Clejes: cuerpo, lenguaje, emoción, eros y silencio; muy interesante.
 
-comunidad, hasta donde llega la comunidad, sistemas dentro de sistemas.
+Comunidad: ¿hasta dónde llega la comunidad? Sistemas dentro de sistemas.
 
-pareciera que la comunidad se asocia a un lugar, de repente no, pero lo colectivo parece que no, lo colectivo habla de la cantidad
+Pareciera que la comunidad se asocia a un lugar... de repente no. Pero lo colectivo parece que no, lo colectivo habla de la cantidad.
 
-lo contrario a colectivo es lo individual
+Lo contrario a colectivo es lo individual.
 
 ### Gabinete de curiosidades
 
-Gabinete de curiosidades o cuarto de maravillas, inventar un mundo, rpoviene de un naturalista al cuestionarse de donde venimos, a donde vamos, la memoria, el coleccionismo, una representacion del mundo
+Gabinete de curiosidades o cuarto de maravillas: inventar un mundo. Proviene de un naturalista al cuestionarse de dónde venimos, a dónde vamos. La memoria, el coleccionismo, una representación del mundo.
 
-karsten bott, archivo de historia contemporaea, porque esperar a que las cosas se desentierren para estudiarlas, esos ordenamientos generan una narrativa. como la cantidad de las cosas van generando una historia
+Karsten Bott, Archivo de Historia Contemporánea, ¿por qué esperar a que las cosas se desentierren para estudiarlas? Esos ordenamientos generan una narrativa. Cómo la cantidad de cosas va generando una historia.
 
-la puesta en escena
-
-la puesta en valor: que sentido le doy
-
-puesta en avismo: tiene que ver con la accion, como accionamos frente a las cosas.
+La puesta en escena.
+La puesta en valor: qué sentido le doy.
+La puesta en abismo: tiene que ver con la acción, con cómo accionamos frente a las cosas.
