@@ -4,7 +4,7 @@
 
 ### La irrupción del feminismo en la universidad
 
-video revisado en clase ["Ola Feminista de mayo de 2018"](https://youtu.be/I7NCecfvrOk?si=ttOAAqUxTBiV5r2l)
+Video revisado en clase ["Ola Feminista de mayo de 2018"](https://youtu.be/I7NCecfvrOk?si=ttOAAqUxTBiV5r2l)
 
 Ola feminista de mayo del 2018, se exige una educación no sexista, la importancia de que perdure una memoria colectiva, historia de las generaciones feministas, que se masifiquen las voces.
 
