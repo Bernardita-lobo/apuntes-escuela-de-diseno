@@ -1,3 +1,5 @@
+trabajo en clase / Martes 26 de agosto, 2025
+
 departamento de salud mental
 
 contribuir al bienestar psicologico, mediante la prevencion y promocion del autocuidado
@@ -38,7 +40,11 @@ el conflicto es tension, la tension genrera antencion, hay que obserbarlo, y apr
 
 claves para la convivencias y salud mental, existen nudos criticos o mas bien desafios, puntos sin resolver, por ejemplo dificultades en la gestion positiva y preventiva de la universidad, la alta demanda hacia las universidades para atender problemas de salud mental y el decenso de la participacion y organizacion estudiantil.
 
-convivencia y salud metal son cosas que deberian trabajar en conjunto, pero la salud mental como algo mas comunitario
+convivencia y salud metal son cosas que deberian trabajar en conjunto, pero la salud mental como algo mas comunitario, la psicologia esta mercantilizada, hayq ue buscar otras formas, ya que las universidades estan en crisis
+
+hay menos participacion estudiantil, que es ser estudiante, es politico y escomunitario
+
+
 
 
 
