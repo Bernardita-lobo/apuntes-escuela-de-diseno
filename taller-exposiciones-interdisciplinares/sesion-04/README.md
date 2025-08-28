@@ -48,7 +48,7 @@ También se observa una baja en la participación estudiantil. Ser estudiante es
 
 Hay que generar mecanismos efectivos de mediación y comunicación.
 
-### habilidades
+### Habilidades socioemocionales
 
 - Comprensión de sí mismo: Reconocer las propias emociones, intereses, valores y habilidades. Identificar en qué se es bueno y fortalecer la autoestima.
 
