@@ -14,6 +14,8 @@ Bernardita Lobo / Estudiante de Diseño
 
 - Tomó este curso con la intención de aprender a trabajar en conjunto con otras disciplinas, además de desarrollar una mirada distinta, como la que ofrecen las carreras artísticas.
 
+### 2- Graficar el pensamiento que divaga. 
+
 ### 3- Gabinete de curiosidades. Trabajo en grupo
 
 Bernardita Lobo,  June Maffioletti, Sofía Hernández, Vania Paredes.
@@ -31,6 +33,7 @@ Nos gustó cómo la idea fue evolucionando desde algo más concreto e individual
 Sin embargo, reconocemos que nos faltó tiempo para madurar y expandir más la escena. Por ejemplo, podríamos haber dispuesto las cartas en distintos lados de la mesa, simulando un juego entre varias personas, o bien explorar formas de darle mayor dimensión y dinamismo a los elementos. Además, si bien los objetos utilizados evocaban la idea de una mesa (con la taza y la mandarina como referentes), no supimos aprovechar plenamente la mesa en sí como un objeto más del gabinete de curiosidades. Creemos que darle ese protagonismo nos habría permitido potenciar la narrativa visual y enriquecer la experiencia.
 
 ### 4- Ampliando la investigación con el Círculo de Historias. Trabajo en grupo
+
 Bernardita Lobo, June Maffioletti, Sofía Hernández, Vania Paredes.
 
 #### ¿Puedes relatar una situación concreta donde te encontrabas en un momento dificil (crisis, ansiedad, estrés, etc) dentro de la Universidad? ¿Alguien te sostuvo o acompañó en dicha situación?
