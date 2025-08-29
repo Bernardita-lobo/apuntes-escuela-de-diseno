@@ -94,23 +94,27 @@ Con todo esto sacamos ideas para poner en intención algo para una exposición, 
 
 saludmentalestudiantil@mail.udp.cl
 
-## flashmob
+## Flashmob
 
-accion colectiva, una multitud convocada por un medio digital, practica artistica, reibindicar el no sentido, el no propocito, disrrupcion, un anonimato de multitudes "el poder de muchos enla busqueda de nada".
+Acción colectiva, una multitud convocada por un medio digital, práctica artística, reivindicar el no sentido, el no propósito, disrupción, un anonimato de multitudes: "el poder de muchos en la búsqueda de nada".
 
-jackson pollock, pintor, impresionismo abstracto, tecnica driping, chorreado, que se pintara en el suelo, habia una corporalidad, una danza, era la huella de una accion, existio una contraversia por si tenia que volver a la verticalidad, en horizontal tenia una relacion con el cuerpo distinta. el arte de accion, la accion tiene relevancia con el resultado.
+Jackson Pollock
+Pintor, impresionismo abstracto, técnica dripping, chorreado, que se pintaba en el suelo. Había una corporalidad, una danza, era la huella de una acción. Existió una controversia por si tenía que volver a la verticalidad; en horizontal tenía una relación con el cuerpo distinta. El arte de acción: la acción tiene relevancia con el resultado.
 
-one: numere
+One: numeré
 
-despues de duchamp, el arte se vuelve acontecimiento.
+Después de Duchamp, el arte se vuelve acontecimiento.
 
-happening, arte efimero y multidiciplinar, decada de 1950, caracterizado eventos abiertos, participacion activa en el publico, difuminar la linea entre arte y vida.
+### Happening
 
-yard, performance, 1961. obra de Allan Kaprow
+Arte efímero y multidisciplinar, década de 1950, caracterizado por eventos abiertos, participación activa del público, difuminar la línea entre arte y vida.
 
-las performance tienes una especie de guion, el autor se hace participe, en cambion en los happening no, es mas de que pase lo que pase
+Yard, performance, 1961. Obra de Allan Kaprow.
 
-los dada
+Las performance tienen una especie de guion, el autor se hace partícipe; en cambio, en los happening no, es más de que pase lo que pase.
 
-john cage
-4´33´ compuetsa en 1952 para cualquier instrumento o combinacion de instrumentos, cuatro minutos y 33 segundos de silencio, tenia hasta sus propios tiempos, se ha interpretado en varios grandisimos lugares.
+Los Dada
+
+### John Cage
+
+4’33’’ compuesta en 1952 para cualquier instrumento o combinación de instrumentos, cuatro minutos y 33 segundos de silencio. Tenía hasta sus propios tiempos; se ha interpretado en varios grandísimos lugares.
