@@ -73,69 +73,45 @@ También recuerdo que para la primera solemne de (asignatura) estudié 3 semanas
 
 #### Rescate una o dos frases de cada texto y organícelas en un listado a modo de poema o manifiesto.
 
-### Manifiesto
-
-01- sentí que no servía para mi carrera.
-
-02- quedar en un "vacío" me causaba mucha ansiedad.
-
-03- ser palabras sin cuerpo / un laberinto imposible de salir / La calma y el reposo son fundamentales para proveerse de la memoria, donde el aprendizaje exige esa condición. 
-
-04- encontré en mis docentes un espacio de apoyo.
-
-05- pésima vivencia en el trabajo en equipo / no tenía a nadie en quien apoyarme.
-
-06- no ofrecía soluciones, solo agregaba problemas / fui al baño a llorar y luego volví a trabajar.
-
-07- quería poner una constancia sobre mi salud mental.
-
-08- Mi hermana logró tranquilizarme.
-
-09- No sabía cómo adaptarme e integrarme. 
-
-10- No busqué ayuda/ la afronté.
-
-11- me puse a llorar/ me dio como una crisis de ansiedad.
-
-12- el no saber si sería capaz/me quedé en blanco.
-
 ### Poema tejido de relatos
 
+```txt
 Sentí que no servía para mi carrera.
 
- Quedar en un vacío me causaba mucha ansiedad.
+Quedar en un vacío me causaba mucha ansiedad.
  
- Ser palabras sin cuerpo,
+Ser palabras sin cuerpo,
  
- un laberinto imposible de salir.
+un laberinto imposible de salir.
  
 Pésima vivencia en el trabajo en equipo,
 
- no tenía a nadie en quien apoyarme.
+no tenía a nadie en quien apoyarme.
  
- No ofrecía soluciones, solo agregaba problemas.
+No ofrecía soluciones, solo agregaba problemas.
  
- Fui al baño a llorar y luego volví a trabajar.
+Fui al baño a llorar y luego volví a trabajar.
  
 Quería poner una constancia sobre mi salud mental.
 
- Me puse a llorar, me dio una crisis de ansiedad.
+Me puse a llorar, me dio una crisis de ansiedad.
  
- El no saber si sería capaz,
+El no saber si sería capaz,
  
- me dejó en blanco.
+me dejó en blanco.
  
 Encontré en mis docentes un espacio de apoyo.
 
- Mi hermana logró tranquilizarme.
+Mi hermana logró tranquilizarme.
  
- La calma y el reposo son fundamentales
+La calma y el reposo son fundamentales
  
- para sostener la memoria y el aprendizaje.
- 
+para sostener la memoria y el aprendizaje.
+
 No sabía cómo adaptarme e integrarme.
 
- No busqué ayuda: la afronté.
+No busqué ayuda: la afronté.
+´´´
 
 ### 5- La institucionalidad UDP y la convivencia. 
 
