@@ -2,7 +2,7 @@
 
 ## Taller de exposiciones interdisciplinares / Segundo semestre, 2025
 
-Bernardita Lobo / Estudiante de Diseño
+Entrega-01 / Bernardita Lobo / Estudiante de Diseño
 
 ### 1- ¿A quién te tocó presentar el 1er día de clases? 
 
