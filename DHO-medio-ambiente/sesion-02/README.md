@@ -1,5 +1,7 @@
 # Trabajo en clase / 14 de agosto, 2025
 
+# corregir absolutamente todo
+
 ## Natalia Ricote 
 
 Bióloga, Magíster en Ciencias Biológicas Mención Ecología. Ella nos presentará acerca del antropoceno y los aspectos de la crisis ambiental (forzantes antrópicos).
