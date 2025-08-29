@@ -30,6 +30,8 @@ Comenzamos vinculando los objetos con las categorías a las que los habíamos as
 
 Posteriormente, llegamos a la conclusión de que lo más efectivo sería colocar primero solo los conceptos sobre la mesa, a modo de mapa guía. Esto nos permitió visualizar de mejor manera las conexiones entre categorías y, a partir de ahí, decidir dónde ubicar los objetos y cómo agruparlos para que tuvieran mayor coherencia. Durante todo el proceso fuimos conversando y evaluando las disposiciones que nos hacían más sentido, llegando a acuerdos colectivos sobre qué elementos debían ir juntos.
 
+![foto de el gabinete de curiosidades](imagenes/foto.jpeg)
+
 #### Luego de la lectura y análisis colectivo de su ejercicio, resuma ¿Cuáles creen que fueron los aciertos conceptuales y formales de su ejercicio y que mejorarían?
 
 Nos gustó cómo la idea fue evolucionando desde algo más concreto e individual hacia una propuesta colectiva, donde los objetos se conectaban entre sí y parecían estar siendo utilizados. Logramos transformar la disposición en una escena activa, destacando especialmente la taza, la mandarina y las cartas, lo que consideramos un acierto. En cierto punto, la conjugación de los objetos transmitió un aspecto hogareño (tal como lo confirmaron luego nuestros receptores), por lo que nos centramos en reorganizarlos de manera que ese carácter cotidiano se hiciera evidente. También valoramos el hecho de que el nombre elegido reforzará y le diera sentido a la propuesta, lo que resultó satisfactorio.
@@ -137,7 +139,7 @@ No sabía cómo adaptarme e integrarme.
 
 ### 5- La institucionalidad UDP y la convivencia. 
 
-#### Dirección de Género
+### Dirección de Género
 
 La irrupción del feminismo en la universidad
 Video revisado en clase "Ola Feminista de mayo de 2018"
@@ -161,4 +163,96 @@ Más que una simple diferencia de roles, que considero válida y necesaria en ci
 
 Un lugar seguro tiene que ser como un colchón en donde puedas caer. Ser vulnerable, ya que sentirse seguro es un acto de confianza. Un lugar seguro puede ser físico o una construcción emocional; es un vínculo. Sentirse seguro es un acto consciente que parte del reconocimiento.
 
-#### Departamento de Salud Mental
+### Departamento de Salud Mental
+
+#### Misión
+
+Contribuir al bienestar psicológico de la comunidad universitaria mediante la prevención y la promoción del autocuidado.
+
+#### Líneas de acción
+
+Grupos de acompañamiento.
+
+Acompañamiento psicológico individual.
+
+Atención en casos de urgencia.
+
+#### Datos generales - Informe 2024
+
+Participación total: 12% del estudiantado.
+
+35% corresponde a estudiantes de primer año.
+
+El menor porcentaje de solicitudes fueron atenciones clínicas individuales.
+
+Casi 77% de las atenciones corresponden a modalidades grupales.
+
+Las facultades con mayor participación: Salud y Odontología.
+
+Las facultades con mayor matrícula femenina presentan más alta participación.
+
+#### Principales motivos de consulta
+
+Ansiedad y preocupación.
+
+Convivencia universitaria (charlas más solicitadas).
+
+#### Ejes de Convivencia Estudiantil
+
+La convivencia se entiende como el proceso de aprender a vivir con los demás, donde se da el descubrimiento del otro y se reconoce que todos somos distintos pero también valiosos.
+
+#### Juego de la lana
+
+Se realizó una dinámica grupal donde los participantes se lanzaban un ovillo de lana. Quien lo recibía debía responder una pregunta relacionada con la comunidad universitaria y las distintas áreas de la convivencia. A través de esta actividad se hicieron notar nuestras diferentes perspectivas, todos participaron activamente y al final, trazamos una ruta de lana donde nuestras respuestas se entrelazaban.
+
+#### Dimensiones de la Convivencia Estudiantil
+
+Subjetiva: procesos emocionales individuales y su impacto en la vida universitaria.
+
+Socio-relacional: socialización y construcción de valores personales compartidos.
+
+Comunicacional: lo colectivo, las interacciones y la construcción de vínculos.
+
+Académica: desarrollo formativo, dinámicas del aprendizaje y exigencias académicas.
+
+Institucional: políticas universitarias, normativas y participación en la toma de decisiones.
+
+Ciudadana: formación de sujetos críticos, participativos y conscientes de su rol en la sociedad.
+
+El conflicto es una parte natural de la convivencia. Dependiendo del ámbito (comunitario-territorial, académico o institucional), el conflicto adquiere distintas formas, pero siempre constituye una oportunidad de crecimiento y transformación colectiva.
+
+#### En torno al segundo informe: relación entre convivencia y conflicto
+
+Dentro de los focos con mayores conflictos tenemos la desconfianza entre estudiantes, el bullying y los desencuentros. Esto surge, en su mayoría, por la falta de mecanismos de mediación y comunicación.
+
+Es importante entender que la convivencia no es opuesta al conflicto, requiere regulación y resolución.
+
+El conflicto es tensión, y la tensión genera atención. Hay que observarlo y aprovechar esa tensión. Es difícil convivir con ideas opuestas, y muchas veces hay personas que no están dispuestas a trabajar con otro que piense diferente.
+
+#### Claves para la convivencia y la salud mental
+
+existen nudos críticos, o más bien desafíos, puntos sin resolver. Por ejemplo, dificultades en la gestión positiva y preventiva dentro de la universidad, la alta demanda hacia estas instituciones para atender problemas de salud mental y el descenso de la participación y organización estudiantil.
+
+Convivencia y salud mental son dimensiones que deberían trabajarse en conjunto, entendiendo la salud mental desde lo comunitario. La psicología hoy está mercantilizada, por lo que hay que buscar otras formas, sobre todo considerando que las universidades están en crisis.
+
+También se observa una baja en la participación estudiantil. Ser estudiante es un acto político y comunitario.
+
+Hay que generar mecanismos efectivos de mediación y comunicación.
+
+#### Habilidades socioemocionales
+
+- Comprensión de sí mismo: Reconocer las propias emociones, intereses, valores y habilidades. Identificar en qué se es bueno y fortalecer la autoestima.
+
+- Autorregulación: Manejo y expresión adecuada de las emociones, manteniendo el control en situaciones difíciles.
+
+- Comprensión del otro: Desarrollar la empatía y la capacidad de tomar la perspectiva de los demás.
+
+- Relación interpersonal: Construir relaciones sanas, promover el diálogo y la participación activa.
+
+- Discernimiento moral: Tomar decisiones responsables basadas en valores y en la consideración de las consecuencias.
+
+Con todo esto sacamos ideas para poner en intención algo para una exposición, levantar focos e intereses en asuntos para trabajar problemáticas en una exposición artística.
+
+[DAE](https://dae.udp.cl/)
+
+saludmentalestudiantil@mail.udp.cl
