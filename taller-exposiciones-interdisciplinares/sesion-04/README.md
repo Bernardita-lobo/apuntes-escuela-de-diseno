@@ -1,42 +1,68 @@
 # trabajo en clase / Martes 26 de agosto, 2025
 
-### departamento de salud mental
+### Departamento de Salud Mental
 
-contribuir al bienestar psicologico, mediante la prevencion y promocion del autocuidado
+#### Misión
 
-grupos de acompañamiento, acompañamiento psicologico, acompañamiento y urgencias.
+Contribuir al bienestar psicológico de la comunidad universitaria mediante la prevención y la promoción del autocuidado.
 
-datos generales, año 2024, el 12 porciento participó y el 35 porciento era de primer año, el menor porcentaje son de atenciones clinicas, y casi el 77 porciento son atenciones grupales.
+#### Líneas de acción
 
-la facultar que mas particpa son salud y odontologia, las facultades con mas mujeres participan mas, 
+Grupos de acompañamiento.
 
-en su gran mayoria son ansiedad y preocupacion, las charlas que mas piden las facultades son convivencia universitaria
+Acompañamiento psicológico individual.
 
-juego de la lana, preguntas de perspectivas y areas diferentes de la comunidad universitaria
+Atención en casos de urgencia.
 
-convivencia estudiantil, aprender a vivir con los demas, descubrimiento del otro, todos somos distintos pero tambien valiosos.
+### Datos generales - Informe 2024
 
-### dimensiones
+Participación total: 12% del estudiantado.
 
-- diemsiones de la convivencia estudantil, dimension subjetiva, procesos emocionales desde individualmente
+35% corresponde a estudiantes de primer año.
 
-- dimension sociorelacional, socalizar y los valores personales
+El menor porcentaje de solicitudes fueron atenciones clínicas individuales.
 
-- dimension comunacional, referente a lo colectivo, interacciones
+Casi 77% de las atenciones corresponden a modalidades grupales.
 
-- dimencion academica, desarrollo formativo y las dinamicas asociadas al proceso de aprendizaje
+Las facultades con mayor participación: Salud y Odontología.
 
-- dimension institucionalidad, politicas institucionel participacione en la toma de desicione 
+Las facultades con mayor matrícula femenina presentan más alta participación.
 
-- dimension siudadana
+#### Principales motivos de consulta
 
-el conflicto es una parte de la convivencial y en la convivencia hay diversas areas tambien, por ejemplo la dimension comunitaria territorial existe el conflicto, hay una diemsion academica y institucional.
+Ansiedad y preocupación.
 
-### en torno al segundo informe: relacion entre convivencia y conflicto
+Convivencia universitaria (charlas más solicitadas).
+
+#### Ejes de Convivencia Estudiantil
+
+La convivencia se entiende como el proceso de aprender a vivir con los demás, donde se da el descubrimiento del otro y se reconoce que todos somos distintos pero también valiosos.
+
+#### Juego de la lana
+
+Se realizó una dinámica grupal donde los participantes se lanzaban un ovillo de lana. Quien lo recibía debía responder una pregunta relacionada con la comunidad universitaria y las distintas áreas de la convivencia. A través de esta actividad se hicieron notar nuestras diferentes perspectivas, todos participaron activamente y al final, trazamos una ruta de lana donde nuestras respuestas se entrelazaban.
+
+### Dimensiones de la Convivencia Estudiantil
+
+Subjetiva: procesos emocionales individuales y su impacto en la vida universitaria.
+
+Socio-relacional: socialización y construcción de valores personales compartidos.
+
+Comunicacional: lo colectivo, las interacciones y la construcción de vínculos.
+
+Académica: desarrollo formativo, dinámicas del aprendizaje y exigencias académicas.
+
+Institucional: políticas universitarias, normativas y participación en la toma de decisiones.
+
+Ciudadana: formación de sujetos críticos, participativos y conscientes de su rol en la sociedad.
+
+El conflicto es una parte natural de la convivencia. Dependiendo del ámbito (comunitario-territorial, académico o institucional), el conflicto adquiere distintas formas, pero siempre constituye una oportunidad de crecimiento y transformación colectiva.
+
+### En torno al segundo informe: relación entre convivencia y conflicto
 
 Dentro de los focos con mayores conflictos tenemos la desconfianza entre estudiantes, el bullying y los desencuentros. Esto surge, en su mayoría, por la falta de mecanismos de mediación y comunicación.
 
-Es importante entender que la convivencia no es opuesta al conflicto: requiere regulación y resolución.
+Es importante entender que la convivencia no es opuesta al conflicto, requiere regulación y resolución.
 
 El conflicto es tensión, y la tensión genera atención. Hay que observarlo y aprovechar esa tensión. Es difícil convivir con ideas opuestas, y muchas veces hay personas que no están dispuestas a trabajar con otro que piense diferente.
 
