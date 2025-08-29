@@ -118,7 +118,7 @@ No busqué ayuda: la afronté.
 ### Dirección de Género
 
 La irrupción del feminismo en la universidad
-Video revisado en clase "Ola Feminista de mayo de 2018"
+Video revisado en clase [Ola Feminista de mayo de 2018](https://youtu.be/I7NCecfvrOk?si=7G-x9eSf_IV7J3W3)
 
 Ola feminista de mayo del 2018, se exige una educación no sexista, la importancia de que perdure una memoria colectiva, historia de las generaciones feministas, que se masifiquen las voces.
 El feminismo es la práctica histórica del movimiento de mujeres contra la discriminación sexual, reinterpretar las bases epistemológicas, cuestionar la imparcialidad.
