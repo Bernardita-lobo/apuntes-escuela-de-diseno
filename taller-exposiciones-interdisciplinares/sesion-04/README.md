@@ -14,7 +14,7 @@ Acompañamiento psicológico individual.
 
 Atención en casos de urgencia.
 
-### Datos generales - Informe 2024
+#### Datos generales - Informe 2024
 
 Participación total: 12% del estudiantado.
 
@@ -42,7 +42,7 @@ La convivencia se entiende como el proceso de aprender a vivir con los demás, d
 
 Se realizó una dinámica grupal donde los participantes se lanzaban un ovillo de lana. Quien lo recibía debía responder una pregunta relacionada con la comunidad universitaria y las distintas áreas de la convivencia. A través de esta actividad se hicieron notar nuestras diferentes perspectivas, todos participaron activamente y al final, trazamos una ruta de lana donde nuestras respuestas se entrelazaban.
 
-### Dimensiones de la Convivencia Estudiantil
+#### Dimensiones de la Convivencia Estudiantil
 
 Subjetiva: procesos emocionales individuales y su impacto en la vida universitaria.
 
@@ -58,7 +58,7 @@ Ciudadana: formación de sujetos críticos, participativos y conscientes de su r
 
 El conflicto es una parte natural de la convivencia. Dependiendo del ámbito (comunitario-territorial, académico o institucional), el conflicto adquiere distintas formas, pero siempre constituye una oportunidad de crecimiento y transformación colectiva.
 
-### En torno al segundo informe: relación entre convivencia y conflicto
+#### En torno al segundo informe: relación entre convivencia y conflicto
 
 Dentro de los focos con mayores conflictos tenemos la desconfianza entre estudiantes, el bullying y los desencuentros. Esto surge, en su mayoría, por la falta de mecanismos de mediación y comunicación.
 
@@ -66,7 +66,9 @@ Es importante entender que la convivencia no es opuesta al conflicto, requiere r
 
 El conflicto es tensión, y la tensión genera atención. Hay que observarlo y aprovechar esa tensión. Es difícil convivir con ideas opuestas, y muchas veces hay personas que no están dispuestas a trabajar con otro que piense diferente.
 
-Claves para la convivencia y la salud mental: existen nudos críticos, o más bien desafíos, puntos sin resolver. Por ejemplo, dificultades en la gestión positiva y preventiva dentro de la universidad, la alta demanda hacia estas instituciones para atender problemas de salud mental y el descenso de la participación y organización estudiantil.
+#### Claves para la convivencia y la salud mental
+
+existen nudos críticos, o más bien desafíos, puntos sin resolver. Por ejemplo, dificultades en la gestión positiva y preventiva dentro de la universidad, la alta demanda hacia estas instituciones para atender problemas de salud mental y el descenso de la participación y organización estudiantil.
 
 Convivencia y salud mental son dimensiones que deberían trabajarse en conjunto, entendiendo la salud mental desde lo comunitario. La psicología hoy está mercantilizada, por lo que hay que buscar otras formas, sobre todo considerando que las universidades están en crisis.
 
@@ -74,7 +76,7 @@ También se observa una baja en la participación estudiantil. Ser estudiante es
 
 Hay que generar mecanismos efectivos de mediación y comunicación.
 
-### Habilidades socioemocionales
+#### Habilidades socioemocionales
 
 - Comprensión de sí mismo: Reconocer las propias emociones, intereses, valores y habilidades. Identificar en qué se es bueno y fortalecer la autoestima.
 
