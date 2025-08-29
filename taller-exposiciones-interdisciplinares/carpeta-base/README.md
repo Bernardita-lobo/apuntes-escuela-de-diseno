@@ -111,7 +111,7 @@ para sostener la memoria y el aprendizaje.
 No sabía cómo adaptarme e integrarme.
 
 No busqué ayuda: la afronté.
-´´´
+```
 
 ### 5- La institucionalidad UDP y la convivencia. 
 
