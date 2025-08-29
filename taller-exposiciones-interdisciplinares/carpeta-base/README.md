@@ -14,11 +14,11 @@ Bernardita Lobo / Estudiante de Diseño
 
 - Tomó este curso con la intención de aprender a trabajar en conjunto con otras disciplinas, además de desarrollar una mirada distinta, como la que ofrecen las carreras artísticas.
 
-![imagen](imagenes/mapa-curso.jpg)
+![imagen](recursos/tei-mapa-curso.jpg)
 
 ### 2- Graficar el pensamiento que divaga. 
 
-![imagen](imagenes/pensamiento-que-divaga.jpg)
+![imagen](recursos/tei-pensamiento-que-divaga.jpg)
 
 ### 3- Gabinete de curiosidades. Trabajo en grupo
 
@@ -30,7 +30,7 @@ Comenzamos vinculando los objetos con las categorías a las que los habíamos as
 
 Posteriormente, llegamos a la conclusión de que lo más efectivo sería colocar primero solo los conceptos sobre la mesa, a modo de mapa guía. Esto nos permitió visualizar de mejor manera las conexiones entre categorías y, a partir de ahí, decidir dónde ubicar los objetos y cómo agruparlos para que tuvieran mayor coherencia. Durante todo el proceso fuimos conversando y evaluando las disposiciones que nos hacían más sentido, llegando a acuerdos colectivos sobre qué elementos debían ir juntos.
 
-![foto de el gabinete de curiosidades](imagenes/foto.jpeg)
+![foto de el gabinete de curiosidades](recursos/tei-gabinete-curiosidades.jpg)
 
 #### Luego de la lectura y análisis colectivo de su ejercicio, resuma ¿Cuáles creen que fueron los aciertos conceptuales y formales de su ejercicio y que mejorarían?
 
