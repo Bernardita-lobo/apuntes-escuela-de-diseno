@@ -232,3 +232,5 @@ Con todo esto sacamos ideas para poner en intención algo para una exposición, 
 [DAE](https://dae.udp.cl/)
 
 saludmentalestudiantil@mail.udp.cl
+
+[documento pdf](https://github.com/Bernardita-lobo/apuntes-escuela-de-diseno/blob/main/taller-exposiciones-interdisciplinares/carpeta-base/recursos/carpeta-base.pdf) de este encargo.
