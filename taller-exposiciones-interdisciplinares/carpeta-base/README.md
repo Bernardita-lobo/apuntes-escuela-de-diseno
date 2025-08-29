@@ -44,51 +44,96 @@ Bernardita Lobo, June Maffioletti, Sofía Hernández, Vania Paredes.
 
 ### Relatos
 
-1- despues de dar un examen de oral en epistemología, me tocaron dos preguntas justo de los temas que no sabía mucho, me sentí tonto, humillado por la profesora, y sentí q no servía para mi carrera, fue un momento super dificil, salí llorando del examen, estuve mucho rato angustiado pensando en q me había echado el ramo, recuerdo q algunas amistades estaban fuera de la facultad y me contuve en esas personas, pero la verdad solo recuerdo con angustia ese momento.
+01- despues de dar un examen de oral en epistemología, me tocaron dos preguntas justo de los temas que no sabía mucho, me sentí tonto, humillado por la profesora, y sentí que no servía para mi carrera, fue un momento super dificil, salí llorando del examen, estuve mucho rato angustiado pensando en que me había echado el ramo, recuerdo que algunas amistades estaban fuera de la facultad y me contuve en esas personas, pero la verdad solo recuerdo con angustia ese momento.
 
-2 - Claro yo vivi un momento en donde tuve que congelar un semestre en la universidad, obviamente eso me causo muchos problemas de ansiedad y estres, ya que fue algo que yo no tenia planeado (yo creo q nadie) y quedar en un "vacio" me causaba mucha ansiedad, debio a eso tuve que acudir a una psicologa que fue como la persona que me acompaño en ese momento.
+02- Claro yo vivi un momento en donde tuve que congelar un semestre en la universidad, obviamente eso me causo muchos problemas de ansiedad y estres, ya que fue algo que yo no tenia planeado (yo creo que nadie) y quedar en un "vacio" me causaba mucha ansiedad, debio a eso tuve que acudir a una psicologa que fue como la persona que me acompaño en ese momento.
 
-3 - recuerdo esos tiempos con mucha ansiedad, entre vivir un duelo, el cambio de casa reciente, era mi primer semestre como ayudante y tenía mucho pánico con hablar frente a tantas personas, me disociaba al punto de tener la sensación de solo ser palabras sin cuerpo.
-Tambien recuerdo que para la primera solemne de (asignatura) estudié 3 semanas con anticipación y el día anterior a la prueba estaba estudiando en grupo en la u, y con el cansancio arrastrado de esas semanas. Me tome sin receta una pastilla para la concentración y comencé a tener rumiaciones obsesivas horribles, pensamientos intrusivos que se sentían como un laberinto imposible de salir. Todos pararon de estudiar y me acompañaron fumando por un buen rato, y comprendí que el estudio sin pausas o descansos era inútil. La calma y el reposo son fundamentales para proveerse de la memoria, donde el aprendizaje exige esa condición. 
+03- recuerdo esos tiempos con mucha ansiedad, entre vivir un duelo, el cambio de casa reciente, era mi primer semestre como ayudante y tenía mucho pánico con hablar frente a tantas personas, me disociaba al punto de tener la sensación de solo ser palabras sin cuerpo.
+También recuerdo que para la primera solemne de (asignatura) estudié 3 semanas con anticipación y el día anterior a la prueba estaba estudiando en grupo en la u, y con el cansancio arrastrado de esas semanas. Me tome sin receta una pastilla para la concentración y comencé a tener rumiaciones obsesivas horribles, pensamientos intrusivos que se sentían como un laberinto imposible de salir. Todos pararon de estudiar y me acompañaron fumando por un buen rato, y comprendí que el estudio sin pausas o descansos era inútil. La calma y el reposo son fundamentales para proveerse de la memoria, donde el aprendizaje exige esa condición. 
 
-4 - Para mí, siempre han sido los profesores quienes me han sostenido. Los conocí en tercer año, justo cuando mi mamá tuvo que ser operada de urgencia. En ese momento decidí no acercarme demasiado a mis compañeros, pero encontré en mis docentes un espacio de apoyo y contención que me acompañó en medio de la crisis.
+04- Para mí, siempre han sido los profesores quienes me han sostenido. Los conocí en tercer año, justo cuando mi mamá tuvo que ser operada de urgencia. En ese momento decidí no acercarme demasiado a mis compañeros, al menos no para confiarles esto, pero encontré en mis docentes un espacio de apoyo y contención que me acompañó en medio de la crisis.
 
-5 - Mi última experiencia fue en un taller, justo antes de congelar. Venía de una pésima vivencia en el trabajo en equipo: me culparon y responsabilizaron por la falta de avance, lo que me dejó sin ánimo para seguir. Me costaba adaptarme a un nuevo grupo, sobre todo en la comunicación y en sentirme acompañada. Finalmente no pude completar una entrega a tiempo y tomé la decisión de congelar. Recuerdo estar en la cafetería, escribiendo por WhatsApp a mi equipo, compartiendo el avance que ya no alcancé a hacer. Ellos me respondieron que estaba bien, pero que me había faltado comunicar más. En ese momento me di cuenta de que no tenía a nadie en quien apoyarme.
+05- Mi última experiencia fue en un taller, justo antes de congelar. Venía de una pésima vivencia en el trabajo en equipo: me culparon y responsabilizaron por la falta de avance, lo que me dejó sin ánimo para seguir. Me costaba adaptarme a un nuevo grupo, sobre todo en la comunicación y en sentirme acompañada. Finalmente no pude completar una entrega a tiempo y tomé la decisión de congelar. Recuerdo estar en la cafetería, escribiendo por WhatsApp a mi equipo, compartiendo el avance que ya no alcancé a hacer. Ellos me respondieron que estaba bien, pero que me había faltado comunicar más. La verdad no tenía a nadie en quien apoyarme.
 
-6 - Era el primer semestre de segundo año y debía entregar la solemne a las 12. Me dijeron que tenía que rehacer todo de nuevo y, además, quedarme en la sala trabajando sin parar. El profesor no ofrecía soluciones, solo agregaba problemas. En medio de la presión, fui al baño a llorar y luego volví a trabajar. No había nadie allí para acompañarme; me sentí completamente sola.
+07- Era el primer semestre de segundo año y debía entregar la solemne a las 12. Me dijeron que tenía que rehacer todo de nuevo y, además, quedarme en la sala trabajando sin parar. El profesor no ofrecía soluciones, solo agregaba problemas. En medio de la presión, fui al baño a llorar y luego volví a trabajar. No había nadie allí para acompañarme; me sentí completamente sola.
 
-7 -Fue una situación bastante reciente donde estaba padeciendo de pensamientos sobre autolesiones, por suerte mi círculo de amistades me contuvieron y me apoyaron junto a mi familia, lamentablemente la institución académica no hizo nada porque no se encontraba nadie de las autoridades en el momento en el que yo quería poner una constancia sobre mi salud mental.
+07-Fue una situación bastante reciente donde estaba padeciendo de pensamientos sobre autolesiones, por suerte mi círculo de amistades me contuvieron y me apoyaron junto a mi familia, lamentablemente la institución académica no hizo nada porque no se encontraba nadie de las autoridades en el momento en el que yo quería poner una constancia sobre mi salud mental.
 
-8 - Me pasó hace un año que, me dio una crisis en la sala de pintura de la FAAD, me contuvieron mis amigos hasta que llegó la paramédico, y luego una psicóloga que se demoró mucho en llegar, por eso me contuvo mi hermana que llegó luego de un rato gracias a mis amigos porque ellos la llamaron. Ya pasado el rato, la psicóloga que me vio en la Facultad me derivó al hospital Horwitz, el equipo de salud mental pagó el viaje de ida. 
+08- Me pasó hace un año que, me dio una crisis en la sala de pintura de la FAAD, me contuvieron mis amigos hasta que llegó la paramédico, y luego una psicóloga que se demoró mucho en llegar, mi hermana logró tranquilizarme, que llegó luego de un rato gracias a mis amigos porque ellos la llamaron. Ya pasado el rato, la psicóloga que me vio en la Facultad me derivó al hospital Horwitz, el equipo de salud mental pagó el viaje de ida. 
 
+09- Recuerdo en una ocasión que estaba en clases y comencé a sentir un ataque de ansiedad. Tuve que correr al baño y tratar de calmarme. En ese momento, hace poco había regresado a la universidad (después de congelar) y no tenía la red que tengo hoy. No pude pedir ayuda a nadie y recuerdo mucho esa sensación de soledad. Y no poder encajar. Me sentía muy sola porque no sabía cómo adaptarme e integrarme a los grupos. 
+
+10- Me ha generado mucho estrés el no haberme preparado o estudiar para alguna prueba (solemne) y presentarme de igual manera sabiendo que me iría mal. No busque ayuda de nadie para dicha situación, solo la afronte.
+
+11- Hubo un momento del semestre pasado donde tuve muchas evaluaciones y problemas con mis amistades y mientras almorzaba un amigo me hablo de una manera mas fuerte de lo normal y me puse a llorar y me dio como una crisis de ansiedad, y sii mi amiga me ayudo y el amigo q me gritó también.
+
+12- el momento de mis primeras solemnes en la universidad estuvieron llenos de estrés y ansiedad, el no saber si sería capaz de terminar las pruebas por completo me generaban una ansiedad inmensa y esto al momento de estudiar me desconcentraba demasiado. La primera vez que entré a la sala a realizar la prueba me quede en blanco y no pude resolver todos los ejercicios, a raíz de eso mis nervios incrementaron demasiado hasta el momento que me dieron mi nota; en ese momento mi mejor amiga estuvo a mi lado dando ánimos y me ayudó a darme cuenta que los nervios me habían jugado una mala, ya que ella se sentía igual que yo en ese momento, no era el hecho de que no supiéramos realizar los ejercicios, si no que ambas estuvimos con mucho estrés previo a las evaluaciones y con nervios durante rendimos estas pruebas; desde ahí ambas empezamos a estudiar juntas y motivarnos una a la otra en todo momento y cuando rendimos nuestras segundas solemnes fue todo muy distinto, ya que ambas terminamos dichas.
 
 #### Rescate una o dos frases de cada texto y organícelas en un listado a modo de poema o manifiesto.
 
+### Manifiesto
+
+01- sentí que no servía para mi carrera.
+
+02- quedar en un "vacío" me causaba mucha ansiedad.
+
+03- ser palabras sin cuerpo / un laberinto imposible de salir / La calma y el reposo son fundamentales para proveerse de la memoria, donde el aprendizaje exige esa condición. 
+
+04- encontré en mis docentes un espacio de apoyo.
+
+05- pésima vivencia en el trabajo en equipo / no tenía a nadie en quien apoyarme.
+
+06- no ofrecía soluciones, solo agregaba problemas / fui al baño a llorar y luego volví a trabajar.
+
+07- quería poner una constancia sobre mi salud mental.
+
+08- Mi hermana logró tranquilizarme.
+
+09- No sabía cómo adaptarme e integrarme. 
+
+10- No busqué ayuda/ la afronté.
+
+11- me puse a llorar/ me dio como una crisis de ansiedad.
+
+12- el no saber si sería capaz/me quedé en blanco.
+
 ### Poema tejido de relatos
 
-1 -
+Sentí que no servía para mi carrera.
 
-2 -
+ Quedar en un vacío me causaba mucha ansiedad.
+ 
+ Ser palabras sin cuerpo,
+ 
+ un laberinto imposible de salir.
+ 
+Pésima vivencia en el trabajo en equipo,
 
-3 - 
+ no tenía a nadie en quien apoyarme.
+ 
+ No ofrecía soluciones, solo agregaba problemas.
+ 
+ Fui al baño a llorar y luego volví a trabajar.
+ 
+Quería poner una constancia sobre mi salud mental.
 
-4 - encontró en sus docentes un espacio de apoyo y contención
+ Me puse a llorar, me dio una crisis de ansiedad.
+ 
+ El no saber si sería capaz,
+ 
+ me dejó en blanco.
+ 
+Encontré en mis docentes un espacio de apoyo.
 
-5 - pésima vivencia en el trabajo en equipo / no tenía a nadie en quien apoyarse 
+ Mi hermana logró tranquilizarme.
+ 
+ La calma y el reposo son fundamentales
+ 
+ para sostener la memoria y el aprendizaje.
+ 
+No sabía cómo adaptarme e integrarme.
 
-6 - no ofrecía soluciones, solo agregaba problemas / fue al baño a llorar y luego volvió a trabajar
-
-7 -
-
-8 -
-
-9 -
-
-10 -
-
-11 -
-
-12 -
+ No busqué ayuda: la afronté.
 
 ### 5- La institucionalidad UDP y la convivencia. 
 
