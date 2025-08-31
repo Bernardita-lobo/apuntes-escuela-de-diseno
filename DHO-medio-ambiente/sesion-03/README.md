@@ -77,10 +77,27 @@ Desde la perspectiva jurídica, entender a la naturaleza como sujeto de derechos
 
 ### Representación legal de la Naturaleza
 
+#### El problema de la representación
 
+la naturaleza no se expresa como los seres humanos, se interpreta su voluntad y sus deseos, la voluntad de la naturaleza. tiene sus propios intereces que a medida no solo los mismos, y aveces se anteponen a los de los humanos y su desarrollo. 
 
+¿Quién puede hablar en nombre de la naturaleza y cómo se determina su representación?.
 
+Rol del estado, en ocasiones el estado es el que se enacrga de de representar a la naturaleza, pero se plantean dudas sobre su capacidad para interpretar la voluntad de la naturaleza.
 
+ademas del estado existen entidades dedicadas a la protección de la naturaleza. Ejemplo en Chile: FIMA (Fiscalía del Medio Ambiente), ONG sin fines de lucro, independiente de órganos gubernamentales y partidos políticos, litiga a favor del interés público y de las comunidades en conflictos socio-ambientales.
+
+“Hablar por la naturaleza y representarla requeriría los más altos estándares de representación y legitimidad democrática. Tal vez la naturaleza tenga muchas voces y no solo una”.
+
+#### Reconocimiento de los Derechos de la Naturaleza en distintos Ordenamientos Jurídicos
+
+- Ecuador: fue el primer pais en reconocer los derechos de la naturaleza.
+- Bolivia: Ley de Derechos de la Madre Tierra (2010): Reconoce a la Madre Tierra como sujeto colectivo de interés público.
+- Colombia: Río Atrato (2016): Corte Constitucional reconoció derechos bioculturales del río.
+- Nueva Zelanda: Río Whanganui (2017): Se le asignó el status de persona jurídica, reconocido como ser vivo con derechos propios.
+- India: Ríos Ganges y Yamuna (2017): Declarados entidades vivas con derechos legales por el Tribunal Superior de Uttarakhand.
+- México: Constitución de la Ciudad de México (2017): “Para el cumplimiento de esta disposición se expedirá una ley secundaria que tendrá por objeto reconocer y regular la protección más amplia de los derechos de la naturaleza conformada por todos sus ecosistemas y especies como un ente colectivo sujeto de derechos” Artículo 13.
+- España: Mar Menor (2022): Ley que reconoce al Mar Menor como entidad con derechos legales.
 
 
 
