@@ -1,6 +1,6 @@
 # Departamento de Salud Mental
 
-trabajo en clase / Martes 26 de agosto, 2025
+Trabajo en clase / Martes 26 de agosto, 2025
 
 #### Misión
 
