@@ -1,19 +1,20 @@
-# trabajo en clase /
+# La naturaza como sugeto de derechos
 
-## La naturaza como sugeto de derechos
+Trabajo en clase / 
 
-Dicotomía en la relación humana con la naturaleza
-distinción entra relación sujeto-objeto y la relación sujeto-sujeto
+## Parte 01: Dicotomía en la relación humana con la naturaleza
 
-### Sujeto-objeto
+### Distinción entra relación sujeto-objeto y la relación sujeto-sujeto
+
+#### Sujeto-objeto
 
 la naturaleza es vista como un objeto apropiable, esta basada en una perspectiva antropocéntrica, se suele hablar de "recursos naturales" o "capital natural".
 
-### Sujeto-sujeto
+#### Sujeto-sujeto
 
 la naturaleza es vista como un ser vivo con procesos organicos ciclicos, relacion basada en el respetuo de sus ciclos y la obstencion de beneficios mutuos.
 
-### origenes del paradigma occidental
+### Origenes del paradigma occidental
 
 Cristianización del Imperio Romano
 
@@ -31,10 +32,51 @@ La iglesia se constituyo como el órgano mediador entre la realidad material y l
 
 #### Época Medieval
 
-Buscó armonizar la fe y la razón.
-Estableció una base para el pensamiento racional.
-Crucial para el desarrollo del paradigma
-mecanicista.
+La filosofia escolástica domino el pensamiento intelectual, una convinacion entre la filosofia griega y la teologia cristiana. por otro lado santo tomas de aquino busco armoanizar la fe y la razon como uno, fue crucial para el  paradigma mecanicista.
+
+el paradigma mecanicista de la realidad del siglo xvii despues de cristo. francis bacon abogo por una reforma del conocimiento, se ve a la ciencia como una herramienta para mejrar la vida humana y dominar a la natulaeza. ademas rené descartes describio a la naturaleza como una maquina, se cree que la naturaleza puede ser entendida y manipulada a traves de la razon y la ciencia. esta perspectiva promovio la idea de que la naturaleza esta para ser explotada para los humanos.
+
+### Consecuencias de la relación sujeto – objeto
+
+explotacion de recursos naturales: la naturaleza es vista como una maquina explotable y manipulable. Promueve dominación y explotación del
+medio ambiente. Prácticas deforestación, minería intensiva, sobreexplotación de océanos.
+
+Cambio en la Agricultura: Agricultura mecanizada y revolución verde. Aumento de productividad. como consecuencias se degradación del suelo y hay una pérdida de biodiversidad.
+
+Desarrollo Tecnológico y Científico: Impulso al desarrollo de ciencia y tecnología. Visión utilitaria de la naturaleza. Tecnología usada para controlar y modificar el entorno natural. existe una falta de consideración de consecuencias ecológicas a largo plazo.
+
+Desconexión Espiritual y Emocional: Visión despersonalizada de la naturaleza. Elementos naturales vistos como objetos sin vida ni valor intrínseco. esto genera una desconexión espiritual y emocional entre humanos y naturaleza.
+
+### Relación de Sujeto a Sujeto
+
+nace un paradigma distinto, en donde la naturaleza tiene sus valores intrincicos, es capaz de expresar una voluntad autonoma atraves de sus ciclos. posee una vitalidad inherente que permite establecer relaciones de colaboracion en vez de dominacion.
+
+#### América: Cosmovisión Andina y la Pachamama 
+
+La cosmovisión andina concibe al ser humano y la naturaleza como dimensiones inseparables, donde la vida está entrelazada en un mismo tejido de relaciones. La Pachamama (Madre Tierra) es entendida como una entidad viva y sagrada, fuente de sustento y protección. Esta visión se fundamenta en una relación de respeto y reciprocidad, cada elemento natural posee un espíritu propio y cumple una función esencial dentro del equilibrio universal. Las prácticas rituales y culturales tienen como objetivo mantener la armonía con el entorno natural, reforzando el vínculo comunitario y espiritual con la tierra.
+
+#### Asia: Filosofía Taoísta y el Equilibrio con la Naturaleza
+
+La cosmovisión andina y la filosofía taoísta conciben al ser humano como parte inseparable de la naturaleza. La Pachamama es vista como madre protectora, mientras que el Tao representa el orden natural del universo. Ambas promueven el respeto, la reciprocidad y la vida en equilibrio, ya sea mediante rituales o a través del principio del Wu Wei (acción sin esfuerzo).
+
+### Teoría de Gaia
+
+La tierra como un sistema vivo, propuesta por James Lovelock, apoyada por Lynn Margulis. la Tierra funciona como un organismo vivo que se autorregula.
+
+## Parte 2: Reconocimiento normativo de la naturaleza como sujeto de derechos
+
+### Antropocentrismo y ecocentrismo en el ordenamiento jurídico
+
+#### Antropocentrismo
+
+Desde una perspectiva jurídica, la naturaleza es concebida como un objeto y no como un sujeto titular de derechos, pues se considera que no tiene capacidad de ejercerlos frente al Estado. En este marco, la protección de la naturaleza depende de la acción humana y de las normas establecidas para su resguardo. Su valoración es extrínseca, en la medida en que es el ser humano quien le otorga valor, ya sea por su utilidad, por los recursos que provee o por su función dentro del bienestar colectivo.
+
+#### Ecocentrismo
+
+Desde la perspectiva jurídica, entender a la naturaleza como sujeto de derechos implica reconocerle personalidad jurídica y, a la vez, establecer quién tendrá la capacidad de representarla frente al Estado y la sociedad. Esta visión surge del reconocimiento de que la naturaleza posee valores intrínsecos, independientes de la utilidad que el ser humano le atribuya, lo que abre el camino hacia un marco legal que busca protegerla por su propio derecho a existir y mantenerse en equilibrio.
+
+### Representación legal de la Naturaleza
+
 
 
 
