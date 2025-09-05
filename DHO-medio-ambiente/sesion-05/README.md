@@ -61,6 +61,7 @@ mostrar causas del problema, los responsables, las consecuencias y las solucione
 
 por ejeplo hace unos años se memciono que por las lluvias se desvordaron los causes y hubieron muertes y inundaciones, peroa realennte no era por alg tan abstracto como el cambio climatico, era por las acumulaciones de basura, las paimentaciones y modificaciones a los causes lo que no permitia la absorcion natrual y el ciclo del agua.
 
+encuadres ambie
 
 
 
