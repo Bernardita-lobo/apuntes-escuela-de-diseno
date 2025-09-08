@@ -1,6 +1,6 @@
-# Trabajo en clase / Martes 19 de agosto, 2025
+# Género, convivencia y comunidad universitaria
 
-## Género, convivencia y comunidad universitaria
+Trabajo en clase / Martes 19 de agosto, 2025
 
 ### La irrupción del feminismo en la universidad
 
