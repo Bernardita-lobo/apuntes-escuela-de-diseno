@@ -59,3 +59,7 @@ Karsten Bott, Archivo de Historia Contemporánea, ¿por qué esperar a que las c
 La puesta en escena.
 La puesta en valor: qué sentido le doy.
 La puesta en abismo: tiene que ver con la acción, con cómo accionamos frente a las cosas.
+
+![foto](recursos/tei-gabinete01.jpg)
+
+![foto](recursos/tei-gabinete02.jpeg)
