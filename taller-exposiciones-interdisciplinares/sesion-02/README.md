@@ -1,4 +1,6 @@
-# Trabajo en clase / Martes 12 de agosto, 2025
+# Comunidad universitaria
+
+Trabajo en clase / Martes 12 de agosto, 2025
 
 Interrelación con el grupo
 
