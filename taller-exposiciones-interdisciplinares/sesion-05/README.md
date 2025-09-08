@@ -4,29 +4,37 @@ Martes 02 de septiembre, 2025.
 
 ### Obras
 
-1.- Matías serrano 
+01- Matías serrano 
 
 “Un trazo en el oído” - Intervención
 
+![](recursos/tei-obra01)
+
+![foto](recursos/tei-sesion05-01.jpeg)
+
+02- Matías serrano 
+
 “Transistores en tránsito” - Instalación
 
-2.- Mónica Bate
+![foto](recursos/tei.sesion05-02.jpeg)
+
+03- Mónica Bate
 
 “Dust: un sentido temporal” - Instalación
 
-3.- Jorge Cabieses Valdés
+04- Jorge Cabieses Valdés
 
 “Síndrome de ménière” - Intervención 
 
-4.- Rainer Krause 
+05- Rainer Krause 
 
 “Objetos pesados cayéndose” - Captcha piece - Instalación
 
-5.- Francisco Sanfuentes
+06- Francisco Sanfuentes
 
 “Sonidos de otro lugar” - Instalación 
 
-6.- Lucas Soffia 
+07- Lucas Soffia 
 
 “MAC QN Echo Chamber” - Intervención 
 
