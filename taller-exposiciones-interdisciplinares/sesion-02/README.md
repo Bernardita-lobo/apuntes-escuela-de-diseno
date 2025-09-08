@@ -60,6 +60,6 @@ La puesta en escena.
 La puesta en valor: qué sentido le doy.
 La puesta en abismo: tiene que ver con la acción, con cómo accionamos frente a las cosas.
 
-![foto](recursos/tei-gabinete01.jpg)
+![foto](recursos/tei-gabinete02.jpeg)
 
 ![foto](recursos/tei-gabinete02.jpeg)
