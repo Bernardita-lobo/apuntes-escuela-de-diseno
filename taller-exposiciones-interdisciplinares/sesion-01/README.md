@@ -1,4 +1,6 @@
-# Trabajo en clase / Martes 05 de agosto, 2025
+# La comunidad – Lo colectivo – La convivencia
+
+Trabajo en clase / Martes 05 de agosto, 2025
 
 ## Encargo
 
