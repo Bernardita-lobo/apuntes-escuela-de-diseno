@@ -62,4 +62,4 @@ La puesta en abismo: tiene que ver con la acción, con cómo accionamos frente a
 
 ![foto](recursos/tei-gabinete02.jpeg)
 
-![foto](recursos/tei-gabinete01.jpeg)
+![foto](recursos/tei-gabinete01.jpg)
