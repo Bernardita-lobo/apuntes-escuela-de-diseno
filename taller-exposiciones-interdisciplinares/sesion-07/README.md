@@ -1,4 +1,4 @@
-# trabajo en clase
+[descarga.htm](https://github.com/user-attachments/files/22500875/descarga.htm)# trabajo en clase
 
 martes 23 de septiembre, 2025
 
@@ -27,3 +27,16 @@ entre nacer y morir
 tipografia elvetica ultraconsentrada
 
 el lenguja y las imagenes moldean la sociedas
+
+se inspira en el impacto de los medios de comunicacion y los roles de genero.
+
+intervencion en la biblioteca nicanor parra inspirado en barbara kruger
+
+raul zurita, utiliza la naturaleza y la tierra como lienzos monumentales
+
+ni pena ni miedo
+
+escritura en los acantilados, poema veras un mar de piedras
+
+
+
