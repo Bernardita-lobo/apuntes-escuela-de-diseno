@@ -14,3 +14,16 @@ tienen sus escalas, tamaños, cantidades, tipografias, procesual o interactivo, 
 
 alfredo jaar
 charlas magistral operaciones esteticas y politicas del arte, "no voy a actuar en el mundo, antes deentender el mjundo"
+
+yoko ono, dream come true
+sueño hecho realidad 2017 corpartes
+
+produce eventos rituales y acciones mediante instrucciones
+
+barbara kruger
+
+entre nacer y morir
+
+tipografia elvetica ultraconsentrada
+
+el lenguja y las imagenes moldean la sociedas
