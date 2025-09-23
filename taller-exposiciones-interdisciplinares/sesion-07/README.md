@@ -12,3 +12,4 @@ demandas consignas, mensajes, instrucciones, preuguntas, reflexiones llamados, d
 
 tienen sus escalas, tamaños, cantidades, tipografias, procesual o interactivo, colavorativo.
 
+alfredo jaar
