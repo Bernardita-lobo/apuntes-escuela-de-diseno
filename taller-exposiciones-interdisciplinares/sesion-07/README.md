@@ -13,4 +13,4 @@ demandas consignas, mensajes, instrucciones, preuguntas, reflexiones llamados, d
 tienen sus escalas, tamaños, cantidades, tipografias, procesual o interactivo, colavorativo.
 
 alfredo jaar
-charlas magistral operaciones esteticas y politicas del arte
+charlas magistral operaciones esteticas y politicas del arte, "no voy a actuar en el mundo, antes deentender el mjundo"
