@@ -29,3 +29,5 @@ https://youtu.be/D_fg1MV5YCI?si=8W6Gakkfb0lOKhMr
 porque ellos y sus estilos de vida conectados con la naturaleza tienen que pagar las consecuencias por un sistema economico
 
 es facil tirar basura y pedir perdon, pero la basura queda ahi
+
+las consecuensias no se ven porque ocurren abajo del agua
