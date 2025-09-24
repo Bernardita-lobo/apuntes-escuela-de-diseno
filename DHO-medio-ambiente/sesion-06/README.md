@@ -31,3 +31,7 @@ porque ellos y sus estilos de vida conectados con la naturaleza tienen que pagar
 es facil tirar basura y pedir perdon, pero la basura queda ahi
 
 las consecuensias no se ven porque ocurren abajo del agua
+
+es imposible la vida acueatica, la tierra y el agua esta dañada, no crece vida, el salmon escapado mato y extingui a especies de la zona.
+
+bueno, al final muestran el mercado de japon de pescados, y hablan de la expancion a magallanes para mas salmoneras, demasiado deprimente.
