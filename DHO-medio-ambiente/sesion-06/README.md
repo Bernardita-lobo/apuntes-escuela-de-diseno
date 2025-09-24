@@ -22,3 +22,8 @@ economista Simon Kuznets que ideara un indicador de la renta nacional del país.
 Organización para la Cooperación y el
 Desarrollo Económicos (OCDE), cuya principal prioridad era lograr «el
 mayor crecimiento económico sostenible»
+
+Estado Salmonero | Uncovering Chile’s Corrupt Salmon Industry
+https://youtu.be/D_fg1MV5YCI?si=8W6Gakkfb0lOKhMr
+
+porque ellos y sus estilos de vida conectados con la naturaleza tienen que pagar las consecuencias por un sistema economico
