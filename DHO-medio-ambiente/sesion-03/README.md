@@ -1,6 +1,6 @@
 # Naturaleza como sujeto de derecho: un cambio ontológico.
 
-Trabajo en clase / 
+Sesión 03 / Jueves 21 de agosto, 2025
 
 ## Preparacion para la clase
 
