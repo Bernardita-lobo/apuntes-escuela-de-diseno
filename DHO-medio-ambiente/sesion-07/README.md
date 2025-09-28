@@ -1,6 +1,6 @@
 # Primera Evaluación: prueba escrita
 
-Jueves 2 de octubre, 2025
+Sesión 07 / Jueves 2 de octubre, 2025
 
 ## Evaluación
 
