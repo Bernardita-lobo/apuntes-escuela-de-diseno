@@ -1,6 +1,6 @@
-# Trabajo en clase / 14 de agosto, 2025
+# Cambio global y sus forzantes antropogénicos.
 
-# corregir absolutamente todo
+Trabajo en clase / 14 de agosto, 2025
 
 ## Natalia Ricote 
 
