@@ -79,6 +79,13 @@ Desde la perspectiva jurídica, entender a la naturaleza como sujeto de derechos
 
 #### El problema de la representación
 
+
+¿Cómo reconocemos la naturaleza en el sistema legal?.
+
+Manteniendo y respetando los ciclos vitales, la reproducción y la regeneración.
+
+La naturaleza suele ser objeto y sujeto de derecho, pero muchas veces solo como objeto para nuestro beneficio.
+
 la naturaleza no se expresa como los seres humanos, se interpreta su voluntad y sus deseos, la voluntad de la naturaleza. tiene sus propios intereces que a medida no solo los mismos, y aveces se anteponen a los de los humanos y su desarrollo. 
 
 ¿Quién puede hablar en nombre de la naturaleza y cómo se determina su representación?.
