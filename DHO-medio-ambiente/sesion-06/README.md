@@ -1,3 +1,7 @@
+# Modelos económicos y sociales de transición
+
+Sesión 07 / Jueves 25 de septiembre, 2025
+
 econimia arte de administracion del hogar , crematistica arte de acumular dinero
 
 El Abogado escocés James Steuart planteó: El objeto principal de esta ciencia es garantizar un cierto fondo de subsistencia para todos los habitantes, evitar cualquier circunstancia que pueda hacerlo precario; proporcionar todo lo necesario para satisfacer las necesidades de la sociedad; y dar empleo a sus habitantes 
