@@ -15,8 +15,8 @@ Justicia ambiental e interseccionalidad.
 05 (4 de septiembre)
 Nuevas narrativas del Antropoceno: un imaginario.
 
-07 (25 de septiembre)
+06 (25 de septiembre)
 Modelos económicos y sociales de transición.
 
-08 (2 de octubre)
+07 (2 de octubre)
 Primera Evaluación: prueba escrita.
