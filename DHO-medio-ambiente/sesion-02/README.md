@@ -2,13 +2,21 @@
 
 Trabajo en clase / 14 de agosto, 2025
 
+## Preparacion para la clase
+
+### Más allá del cambio climático
+
+[“Más allá del cambio climático”, Ricote Martínez, Natalia. Revista Endémico, Septiembre 2022](https://endemico.org/mas-alla-del-cambio-climatico/)
+
+Nueva época geológica, conocida como “Antropoceno”, influencia que tiene la especie humana en el sistema biogeoquímico terrestre, EL frágil “éxito” de la humanidad sigue dependiendo de elementos producidos por ecosistemas y no por nosotros, como lo son el agua dulce, los minerales o la tierra fértil.
+
+### Breaking boundaries
+
+Documental. Breaking boundaries (Romper los límites, la ciencia de nuestro planeta) en Netflix.
+
 ## Natalia Ricote 
 
 Bióloga, Magíster en Ciencias Biológicas Mención Ecología. Ella nos presentará acerca del antropoceno y los aspectos de la crisis ambiental (forzantes antrópicos).
-
-1. Ricote Martínez, Natalia. “Más allá del cambio climático”, Revista Endémico, Septiembre 2022, disponible en: https://endemico.org/mas-alla-del-cambio-climatico/
-
-2. Documental. Breaking boundaries (Romper los límites, la ciencia de nuestro planeta) en Netflix.
 
 ### Antroposeno
 
