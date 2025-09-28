@@ -1,6 +1,6 @@
 # Cambio global y sus forzantes antropogénicos.
 
-Trabajo en clase / 14 de agosto, 2025
+Sesión 02 / Jueves 14 de agosto, 2025
 
 ## Preparacion para la clase
 
