@@ -1,4 +1,8 @@
-# Comunicacion ambiental
+# Nuevas narrativas del Antropoceno: un imaginario.
+
+Sesión 05 / Jueves 4 de septiembre, 2025 
+
+## Comunicacion ambiental
 
 racapitulando de la clase anterior 
 
