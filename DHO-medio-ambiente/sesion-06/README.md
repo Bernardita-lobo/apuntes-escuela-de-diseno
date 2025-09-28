@@ -1,6 +1,6 @@
 # Modelos económicos y sociales de transición
 
-Sesión 07 / Jueves 25 de septiembre, 2025
+Sesión 06 / Jueves 25 de septiembre, 2025
 
 econimia arte de administracion del hogar , crematistica arte de acumular dinero
 
