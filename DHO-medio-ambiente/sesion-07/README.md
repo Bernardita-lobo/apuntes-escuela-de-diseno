@@ -6,7 +6,7 @@ Sesión 07 / Jueves 2 de octubre, 2025
 
 ### Aprendizajes esperados
 
-Las/os estudiantes serán capaces de: Disponer de unavisión integral y crítica acerca del concepto de transición socioecológica justa, en vista de los componentes que permiten definirla y comprenderla: (i) naturaleza como sujeto de derecho: un cambio ontológico (ii) interseccionalidad y justicia ambiental en Latinoamérica, (iii) modelos económicos y sociales de transición, y (iv) comunicación ambiental y narrativas del antropoceno. 
+Las/os estudiantes serán capaces de: Disponer de una visión integral y crítica acerca del concepto de transición socioecológica justa, en vista de los componentes que permiten definirla y comprenderla: naturaleza como sujeto de derecho: un cambio ontológico interseccionalidad y justicia ambiental en Latinoamérica, modelos económicos y sociales de transición, y comunicación ambiental y narrativas del antropoceno. 
 
 ### Evidencias de los aprendizajes
 
