@@ -2,6 +2,20 @@
 
 Trabajo en clase / 
 
+## Preparacion para la clase
+
+### Ética Ambiental: raíces y ramas latinoamericanas
+
+Rossi, Ricardo, “Ética Ambiental: raíces y ramas latinoamericanas, Nat.: Desafíos medioambienales, Nº 3, 2022, disponible en: http://www.umag.cl/facultades/williams/wpcontent/uploads/2017/08/Etica_Ambiental_Raices-y-Ramas-LatinoamericanasR.Rozzi_.pdf
+
+### Biosfera somos agua
+
+Orrego, Juan Pablo, Biosfera somos agua, 2020, ecosistemas.
+
+### Derechos de la Naturaleza
+
+Gudynas, Eduardo, Derechos de la Naturaleza, 2020.
+
 ## Parte 01: Dicotomía en la relación humana con la naturaleza
 
 ### Distinción entra relación sujeto-objeto y la relación sujeto-sujeto
