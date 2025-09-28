@@ -1,4 +1,4 @@
-# La naturaza como sugeto de derechos
+# Naturaleza como sujeto de derecho: un cambio ontológico.
 
 Trabajo en clase / 
 
@@ -92,13 +92,15 @@ ademas del estado existen entidades dedicadas a la protección de la naturaleza.
 #### Reconocimiento de los Derechos de la Naturaleza en distintos Ordenamientos Jurídicos
 
 - Ecuador: fue el primer pais en reconocer los derechos de la naturaleza.
+
 - Bolivia: Ley de Derechos de la Madre Tierra (2010): Reconoce a la Madre Tierra como sujeto colectivo de interés público.
+
 - Colombia: Río Atrato (2016): Corte Constitucional reconoció derechos bioculturales del río.
+
 - Nueva Zelanda: Río Whanganui (2017): Se le asignó el status de persona jurídica, reconocido como ser vivo con derechos propios.
+
 - India: Ríos Ganges y Yamuna (2017): Declarados entidades vivas con derechos legales por el Tribunal Superior de Uttarakhand.
+
 - México: Constitución de la Ciudad de México (2017): “Para el cumplimiento de esta disposición se expedirá una ley secundaria que tendrá por objeto reconocer y regular la protección más amplia de los derechos de la naturaleza conformada por todos sus ecosistemas y especies como un ente colectivo sujeto de derechos” Artículo 13.
+
 - España: Mar Menor (2022): Ley que reconoce al Mar Menor como entidad con derechos legales.
-
-
-
-
