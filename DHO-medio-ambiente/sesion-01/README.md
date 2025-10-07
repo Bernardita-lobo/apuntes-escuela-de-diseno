@@ -1,5 +1,7 @@
 # Políticas, marco normativo y estrategias socioambientales
 
+Sesión 01 / Jueves de agosto, 2025
+
 Rodrigo Rivera, abogado, Clínica Jurídica de Derechos Ambientales
 
 Sebastián Arriagada, abogado, Servicio de Políticas Públicas de Ambiente
